@@ -1,0 +1,2035 @@
+{
+  "id": "festivals",
+  "version": 1,
+  "name": {
+    "en": "Festivals",
+    "ne": "चाडपर्व",
+    "ro": "Chadparba"
+  },
+  "words": [
+    {
+      "id": "festivals.dashain",
+      "tier": 1,
+      "w": {
+        "en": "Dashain",
+        "ne": "दशैं",
+        "ro": "Dashain"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tika"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "The biggest festival, with tika and jamara"
+        }
+      }
+    },
+    {
+      "id": "festivals.tihar",
+      "tier": 1,
+      "w": {
+        "en": "Tihar",
+        "ne": "तिहार",
+        "ro": "Tihar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Lights"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "The festival of lights, with deusi and bhailo"
+        }
+      }
+    },
+    {
+      "id": "festivals.holi",
+      "tier": 1,
+      "w": {
+        "en": "Holi",
+        "ne": "होली",
+        "ro": "Holi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Colours"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "The festival where people throw coloured powder"
+        }
+      }
+    },
+    {
+      "id": "festivals.teej",
+      "tier": 2,
+      "w": {
+        "en": "Teej",
+        "ne": "तीज",
+        "ro": "Teej"
+      },
+      "hint": {
+        "hard": {
+          "en": "Red"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Women fast, sing and dance in red clothes"
+        }
+      }
+    },
+    {
+      "id": "festivals.maghe-sankranti",
+      "tier": 3,
+      "w": {
+        "en": "Maghe Sankranti",
+        "ne": "माघे सङ्क्रान्ति",
+        "ro": "Maghe Sankranti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Winter"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "A winter festival with sweet potatoes and ghee"
+        }
+      }
+    },
+    {
+      "id": "festivals.ghatasthapana",
+      "tier": 2,
+      "w": {
+        "en": "Ghatasthapana",
+        "ne": "घटस्थापना",
+        "ro": "Ghatasthapana"
+      },
+      "hint": {
+        "hard": {
+          "en": "Jamara"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "First day of the autumn festival when a holy jar is set up and barley seeds are sown"
+        }
+      }
+    },
+    {
+      "id": "festivals.fulpati",
+      "tier": 2,
+      "w": {
+        "en": "Fulpati",
+        "ne": "फूलपाती",
+        "ro": "Fulpati"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flowers"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Seventh day of the big autumn festival when sacred flowers and plants are paraded in"
+        }
+      }
+    },
+    {
+      "id": "festivals.vijaya-dashami",
+      "tier": 1,
+      "w": {
+        "en": "Vijaya Dashami",
+        "ne": "विजया दशमी",
+        "ro": "Vijaya Dashami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Victory"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Tenth day of the autumn festival when elders bless younger people with red tika"
+        }
+      }
+    },
+    {
+      "id": "festivals.kojagrat-purnima",
+      "tier": 3,
+      "w": {
+        "en": "Kojagrat Purnima",
+        "ne": "कोजाग्रत पूर्णिमा",
+        "ro": "Kojagrat Purnima"
+      },
+      "hint": {
+        "hard": {
+          "en": "Awake"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Full moon night when people stay awake to worship the goddess of wealth"
+        }
+      }
+    },
+    {
+      "id": "festivals.kag-tihar",
+      "tier": 3,
+      "w": {
+        "en": "Kag Tihar",
+        "ne": "काग तिहार",
+        "ro": "Kag Tihar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crow"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "First day of the festival of lights when crows are offered food as messengers"
+        }
+      }
+    },
+    {
+      "id": "festivals.kukur-tihar",
+      "tier": 2,
+      "w": {
+        "en": "Kukur Tihar",
+        "ne": "कुकुर तिहार",
+        "ro": "Kukur Tihar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Loyal"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Day when dogs are honoured with flower garlands and tika"
+        }
+      }
+    },
+    {
+      "id": "festivals.gai-tihar",
+      "tier": 2,
+      "w": {
+        "en": "Gai Tihar",
+        "ne": "गाई तिहार",
+        "ro": "Gai Tihar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Garland"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Day of the festival of lights when sacred cows are worshipped"
+        }
+      }
+    },
+    {
+      "id": "festivals.laxmi-puja",
+      "tier": 1,
+      "w": {
+        "en": "Laxmi Puja",
+        "ne": "लक्ष्मी पूजा",
+        "ro": "Laxmi Puja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Wealth"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Evening worship of the goddess of wealth with lamps and candles at every doorstep"
+        }
+      }
+    },
+    {
+      "id": "festivals.mha-puja",
+      "tier": 3,
+      "w": {
+        "en": "Mha Puja",
+        "ne": "म्ह पूजा",
+        "ro": "Mha Puja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Self"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Newar ritual of worshipping one's own body and soul on new year's day"
+        }
+      }
+    },
+    {
+      "id": "festivals.bhai-tika",
+      "tier": 1,
+      "w": {
+        "en": "Bhai Tika",
+        "ne": "भाइटीका",
+        "ro": "Bhai Tika"
+      },
+      "hint": {
+        "hard": {
+          "en": "Siblings"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Sisters apply a seven-coloured tika on their brothers' foreheads"
+        }
+      }
+    },
+    {
+      "id": "festivals.chhath",
+      "tier": 2,
+      "w": {
+        "en": "Chhath",
+        "ne": "छठ",
+        "ro": "Chhath"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sun"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Devotees stand in river water at sunrise and sunset to worship the sun, popular in the Terai"
+        }
+      }
+    },
+    {
+      "id": "festivals.vivah-panchami",
+      "tier": 2,
+      "w": {
+        "en": "Vivah Panchami",
+        "ne": "विवाह पञ्चमी",
+        "ro": "Vivah Panchami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Janakpur"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Celebration in Janakpur of the wedding of Ram and Sita"
+        }
+      }
+    },
+    {
+      "id": "festivals.sama-chakeva",
+      "tier": 3,
+      "w": {
+        "en": "Sama Chakeva",
+        "ne": "सामा चकेवा",
+        "ro": "Sama Chakeva"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mithila"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Mithila festival where sisters sing folk songs for their brothers using clay birds"
+        }
+      }
+    },
+    {
+      "id": "festivals.jitiya",
+      "tier": 3,
+      "w": {
+        "en": "Jitiya",
+        "ne": "जितिया",
+        "ro": "Jitiya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Children"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Mothers in the Terai fast without water for the long life of their children"
+        }
+      }
+    },
+    {
+      "id": "festivals.madhushravani",
+      "tier": 3,
+      "w": {
+        "en": "Madhushravani",
+        "ne": "मधुश्रावणी",
+        "ro": "Madhushravani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Newlywed"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Mithila festival in which newly married women worship for their husbands' long life"
+        }
+      }
+    },
+    {
+      "id": "festivals.jur-sital",
+      "tier": 3,
+      "w": {
+        "en": "Jur Sital",
+        "ne": "जुड शीतल",
+        "ro": "Jur Sital"
+      },
+      "hint": {
+        "hard": {
+          "en": "Water"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Maithili new year when elders sprinkle cool water on the heads of the young"
+        }
+      }
+    },
+    {
+      "id": "festivals.chaurchan",
+      "tier": 3,
+      "w": {
+        "en": "Chaurchan",
+        "ne": "चौठचन्द्र",
+        "ro": "Chaurchan"
+      },
+      "hint": {
+        "hard": {
+          "en": "Moon"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Mithila festival of worshipping the moon in the evening with curd and sweets"
+        }
+      }
+    },
+    {
+      "id": "festivals.janai-purnima",
+      "tier": 1,
+      "w": {
+        "en": "Janai Purnima",
+        "ne": "जनै पूर्णिमा",
+        "ro": "Janai Purnima"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thread"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Day when sacred threads are changed and protective yellow cords are tied on wrists"
+        }
+      }
+    },
+    {
+      "id": "festivals.gai-jatra",
+      "tier": 2,
+      "w": {
+        "en": "Gai Jatra",
+        "ne": "गाईजात्रा",
+        "ro": "Gai Jatra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Costumes"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Day of parades and jokes remembering family members who died in the past year"
+        }
+      }
+    },
+    {
+      "id": "festivals.indra-jatra",
+      "tier": 2,
+      "w": {
+        "en": "Indra Jatra",
+        "ne": "इन्द्रजात्रा",
+        "ro": "Indra Jatra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Kumari"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Kathmandu festival with masked dances and a chariot carrying the living goddess"
+        }
+      }
+    },
+    {
+      "id": "festivals.krishna-janmashtami",
+      "tier": 2,
+      "w": {
+        "en": "Krishna Janmashtami",
+        "ne": "कृष्ण जन्माष्टमी",
+        "ro": "Krishna Janmashtami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flute"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Birthday celebration of the blue-skinned god who plays the flute"
+        }
+      }
+    },
+    {
+      "id": "festivals.nag-panchami",
+      "tier": 2,
+      "w": {
+        "en": "Nag Panchami",
+        "ne": "नागपञ्चमी",
+        "ro": "Nag Panchami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Snake"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Day of offering milk to snakes and sticking pictures of them above doors"
+        }
+      }
+    },
+    {
+      "id": "festivals.rishi-panchami",
+      "tier": 3,
+      "w": {
+        "en": "Rishi Panchami",
+        "ne": "ऋषिपञ्चमी",
+        "ro": "Rishi Panchami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sages"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Women bathe and worship the seven wise sages on the last day of Teej"
+        }
+      }
+    },
+    {
+      "id": "festivals.saune-sankranti",
+      "tier": 3,
+      "w": {
+        "en": "Saune Sankranti",
+        "ne": "साउने सङ्क्रान्ति",
+        "ro": "Saune Sankranti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Monsoon"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "First day of the rainy season month, marked with rituals to keep away evil"
+        }
+      }
+    },
+    {
+      "id": "festivals.asar-pandra",
+      "tier": 3,
+      "w": {
+        "en": "Asar Pandra",
+        "ne": "असार पन्ध्र",
+        "ro": "Asar Pandra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Paddy"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Rice-planting day with muddy fun and a feast of yogurt and flattened rice"
+        }
+      }
+    },
+    {
+      "id": "festivals.maha-shivaratri",
+      "tier": 1,
+      "w": {
+        "en": "Maha Shivaratri",
+        "ne": "महाशिवरात्री",
+        "ro": "Maha Shivaratri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pashupati"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Night when thousands of sadhus and pilgrims gather at Pashupatinath temple"
+        }
+      }
+    },
+    {
+      "id": "festivals.buddha-jayanti",
+      "tier": 1,
+      "w": {
+        "en": "Buddha Jayanti",
+        "ne": "बुद्ध जयन्ती",
+        "ro": "Buddha Jayanti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Lumbini"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Full moon day marking the birth and enlightenment of the prince born in Lumbini"
+        }
+      }
+    },
+    {
+      "id": "festivals.ram-navami",
+      "tier": 2,
+      "w": {
+        "en": "Ram Navami",
+        "ne": "रामनवमी",
+        "ro": "Ram Navami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Ayodhya"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Birthday of the prince of Ayodhya and hero of an epic"
+        }
+      }
+    },
+    {
+      "id": "festivals.nepali-new-year",
+      "tier": 1,
+      "w": {
+        "en": "Nepali New Year",
+        "ne": "नयाँ वर्ष",
+        "ro": "Naya Barsha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Baisakh"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "First day of the month of Baisakh and the start of the Bikram Sambat year"
+        }
+      }
+    },
+    {
+      "id": "festivals.bisket-jatra",
+      "tier": 2,
+      "w": {
+        "en": "Bisket Jatra",
+        "ne": "बिस्केट जात्रा",
+        "ro": "Bisket Jatra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bhaktapur"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Bhaktapur festival with a chariot tug-of-war and the raising of a tall wooden pole"
+        }
+      }
+    },
+    {
+      "id": "festivals.rato-machhindranath",
+      "tier": 2,
+      "w": {
+        "en": "Rato Machhindranath Jatra",
+        "ne": "रातो मच्छिन्द्रनाथ जात्रा",
+        "ro": "Rato Machhindranath Jatra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rain"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Giant chariot of the rain god pulled through Patan for weeks"
+        }
+      }
+    },
+    {
+      "id": "festivals.ghode-jatra",
+      "tier": 2,
+      "w": {
+        "en": "Ghode Jatra",
+        "ne": "घोडेजात्रा",
+        "ro": "Ghode Jatra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Horse"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Horse parade and races in Kathmandu said to chase away a demon"
+        }
+      }
+    },
+    {
+      "id": "festivals.basanta-panchami",
+      "tier": 1,
+      "w": {
+        "en": "Basanta Panchami",
+        "ne": "वसन्त पञ्चमी",
+        "ro": "Basanta Panchami"
+      },
+      "hint": {
+        "hard": {
+          "en": "Learning"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Spring day to worship the goddess of knowledge, when children begin writing and people wear yellow"
+        }
+      }
+    },
+    {
+      "id": "festivals.mata-tirtha-aunsi",
+      "tier": 2,
+      "w": {
+        "en": "Mata Tirtha Aunsi",
+        "ne": "मातातीर्थ औँसी",
+        "ro": "Mata Tirtha Aunsi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mothers"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "New moon day for honouring mothers, or remembering those who have died"
+        }
+      }
+    },
+    {
+      "id": "festivals.kushe-aunsi",
+      "tier": 2,
+      "w": {
+        "en": "Kushe Aunsi",
+        "ne": "कुशे औँसी",
+        "ro": "Kushe Aunsi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fathers"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "New moon day for honouring fathers"
+        }
+      }
+    },
+    {
+      "id": "festivals.lhosar",
+      "tier": 2,
+      "w": {
+        "en": "Lhosar",
+        "ne": "ल्होसार",
+        "ro": "Lhosar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tibetan"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "New year festival of Tamang, Sherpa and Tibetan communities"
+        }
+      }
+    },
+    {
+      "id": "festivals.tamu-lhosar",
+      "tier": 3,
+      "w": {
+        "en": "Tamu Lhosar",
+        "ne": "तमु ल्होसार",
+        "ro": "Tamu Lhosar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Gurung"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Gurung new year celebrated in the month of Pausha"
+        }
+      }
+    },
+    {
+      "id": "festivals.sonam-lhosar",
+      "tier": 3,
+      "w": {
+        "en": "Sonam Lhosar",
+        "ne": "सोनाम ल्होसार",
+        "ro": "Sonam Lhosar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tamang"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Tamang new year celebrated in the month of Magh"
+        }
+      }
+    },
+    {
+      "id": "festivals.gyalpo-lhosar",
+      "tier": 3,
+      "w": {
+        "en": "Gyalpo Lhosar",
+        "ne": "ग्याल्पो ल्होसार",
+        "ro": "Gyalpo Lhosar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sherpa"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Sherpa and Tibetan new year in late winter"
+        }
+      }
+    },
+    {
+      "id": "festivals.udhauli",
+      "tier": 3,
+      "w": {
+        "en": "Udhauli",
+        "ne": "उधौली",
+        "ro": "Udhauli"
+      },
+      "hint": {
+        "hard": {
+          "en": "Descent"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Kirat festival marking the journey down from the hills as winter nears"
+        }
+      }
+    },
+    {
+      "id": "festivals.ubhauli",
+      "tier": 3,
+      "w": {
+        "en": "Ubhauli",
+        "ne": "उभौली",
+        "ro": "Ubhauli"
+      },
+      "hint": {
+        "hard": {
+          "en": "Ascent"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Kirat festival marking the move to higher lands as summer begins"
+        }
+      }
+    },
+    {
+      "id": "festivals.sakela",
+      "tier": 3,
+      "w": {
+        "en": "Sakela",
+        "ne": "साकेला",
+        "ro": "Sakela"
+      },
+      "hint": {
+        "hard": {
+          "en": "Kirat"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Kirat festival of circle dances honouring nature and ancestors"
+        }
+      }
+    },
+    {
+      "id": "festivals.mani-rimdu",
+      "tier": 3,
+      "w": {
+        "en": "Mani Rimdu",
+        "ne": "मानी रिम्दु",
+        "ro": "Mani Rimdu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tengboche"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Sherpa masked dance festival held at a monastery in the Everest region"
+        }
+      }
+    },
+    {
+      "id": "festivals.tiji",
+      "tier": 3,
+      "w": {
+        "en": "Tiji",
+        "ne": "तिजी",
+        "ro": "Tiji"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mustang"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Mustang festival of masked monk dances showing a deity's triumph over a demon"
+        }
+      }
+    },
+    {
+      "id": "festivals.gunla",
+      "tier": 3,
+      "w": {
+        "en": "Gunla",
+        "ne": "गुँला",
+        "ro": "Gunla"
+      },
+      "hint": {
+        "hard": {
+          "en": "Newar"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Month of Newar Buddhist devotion with musical processions"
+        }
+      }
+    },
+    {
+      "id": "festivals.yomari-punhi",
+      "tier": 2,
+      "w": {
+        "en": "Yomari Punhi",
+        "ne": "योमरी पुन्ही",
+        "ro": "Yomari Punhi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Harvest"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Newar rice harvest festival where steamed sweet dumplings are made"
+        }
+      }
+    },
+    {
+      "id": "festivals.sithi-nakha",
+      "tier": 3,
+      "w": {
+        "en": "Sithi Nakha",
+        "ne": "सिठि नखः",
+        "ro": "Sithi Nakha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Clean"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Newar festival when wells and water sources are cleaned before the monsoon"
+        }
+      }
+    },
+    {
+      "id": "festivals.republic-day",
+      "tier": 2,
+      "w": {
+        "en": "Republic Day",
+        "ne": "गणतन्त्र दिवस",
+        "ro": "Ganatantra Diwas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Monarchy"
+        },
+        "normal": {
+          "en": "A public holiday",
+          "ne": "सार्वजनिक बिदा",
+          "ro": "Sarbajanik bida"
+        },
+        "easy": {
+          "en": "Anniversary of the end of kings and the start of a republic in Nepal"
+        }
+      }
+    },
+    {
+      "id": "festivals.constitution-day",
+      "tier": 2,
+      "w": {
+        "en": "Constitution Day",
+        "ne": "संविधान दिवस",
+        "ro": "Sambidhan Diwas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Asoj"
+        },
+        "normal": {
+          "en": "A public holiday",
+          "ne": "सार्वजनिक बिदा",
+          "ro": "Sarbajanik bida"
+        },
+        "easy": {
+          "en": "Anniversary of the promulgation of Nepal's constitution in 2015"
+        }
+      }
+    },
+    {
+      "id": "festivals.democracy-day",
+      "tier": 3,
+      "w": {
+        "en": "Democracy Day",
+        "ne": "प्रजातन्त्र दिवस",
+        "ro": "Prajatantra Diwas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rana"
+        },
+        "normal": {
+          "en": "A public holiday",
+          "ne": "सार्वजनिक बिदा",
+          "ro": "Sarbajanik bida"
+        },
+        "easy": {
+          "en": "Anniversary of the end of Rana family rule in 1951"
+        }
+      }
+    },
+    {
+      "id": "festivals.labour-day",
+      "tier": 1,
+      "w": {
+        "en": "Labour Day",
+        "ne": "मजदुर दिवस",
+        "ro": "Majdur Diwas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Workers"
+        },
+        "normal": {
+          "en": "A public holiday",
+          "ne": "सार्वजनिक बिदा",
+          "ro": "Sarbajanik bida"
+        },
+        "easy": {
+          "en": "First day of May honouring workers"
+        }
+      }
+    },
+    {
+      "id": "festivals.diwali",
+      "tier": 1,
+      "w": {
+        "en": "Diwali",
+        "ne": "दिवाली",
+        "ro": "Diwali"
+      },
+      "hint": {
+        "hard": {
+          "en": "Diyas"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Indian festival of lights with oil lamps, sweets and fireworks"
+        }
+      }
+    },
+    {
+      "id": "festivals.navratri",
+      "tier": 2,
+      "w": {
+        "en": "Navratri",
+        "ne": "नवरात्र",
+        "ro": "Navaratri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Nine"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Nine nights of worshipping the goddess, with dance and fasting"
+        }
+      }
+    },
+    {
+      "id": "festivals.durga-puja",
+      "tier": 2,
+      "w": {
+        "en": "Durga Puja",
+        "ne": "दुर्गा पूजा",
+        "ro": "Durga Puja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pandal"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Bengal festival with giant decorated clay idols of the ten-armed goddess"
+        }
+      }
+    },
+    {
+      "id": "festivals.ganesh-chaturthi",
+      "tier": 2,
+      "w": {
+        "en": "Ganesh Chaturthi",
+        "ne": "गणेश चतुर्थी",
+        "ro": "Ganesh Chaturthi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Elephant"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Festival of the elephant-headed god, with idols immersed in water"
+        }
+      }
+    },
+    {
+      "id": "festivals.raksha-bandhan",
+      "tier": 1,
+      "w": {
+        "en": "Raksha Bandhan",
+        "ne": "रक्षाबन्धन",
+        "ro": "Raksha Bandhan"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rakhi"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Sisters tie a protective band on their brothers' wrists"
+        }
+      }
+    },
+    {
+      "id": "festivals.onam",
+      "tier": 2,
+      "w": {
+        "en": "Onam",
+        "ne": "ओणम",
+        "ro": "Onam"
+      },
+      "hint": {
+        "hard": {
+          "en": "Kerala"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Harvest festival of Kerala with flower carpets and a big vegetarian feast"
+        }
+      }
+    },
+    {
+      "id": "festivals.pongal",
+      "tier": 2,
+      "w": {
+        "en": "Pongal",
+        "ne": "पोङ्गल",
+        "ro": "Pongal"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tamil"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Tamil harvest festival where sweet rice is boiled over until it overflows"
+        }
+      }
+    },
+    {
+      "id": "festivals.baisakhi",
+      "tier": 2,
+      "w": {
+        "en": "Baisakhi",
+        "ne": "वैशाखी",
+        "ro": "Baisakhi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Punjab"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Spring harvest and new year festival of Punjab and Sikhs"
+        }
+      }
+    },
+    {
+      "id": "festivals.lohri",
+      "tier": 3,
+      "w": {
+        "en": "Lohri",
+        "ne": "लोहरी",
+        "ro": "Lohri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bonfire"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Winter bonfire festival of Punjab with popcorn and peanuts"
+        }
+      }
+    },
+    {
+      "id": "festivals.karva-chauth",
+      "tier": 3,
+      "w": {
+        "en": "Karva Chauth",
+        "ne": "करवा चौथ",
+        "ro": "Karva Chauth"
+      },
+      "hint": {
+        "hard": {
+          "en": "Moonrise"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Married women fast all day until the moon appears"
+        }
+      }
+    },
+    {
+      "id": "festivals.rath-yatra",
+      "tier": 2,
+      "w": {
+        "en": "Rath Yatra",
+        "ne": "रथ यात्रा",
+        "ro": "Rath Yatra"
+      },
+      "hint": {
+        "hard": {
+          "en": "Puri"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Giant chariots carry deities through the streets of Puri"
+        }
+      }
+    },
+    {
+      "id": "festivals.kumbh-mela",
+      "tier": 2,
+      "w": {
+        "en": "Kumbh Mela",
+        "ne": "कुम्भ मेला",
+        "ro": "Kumbh Mela"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pilgrimage"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Largest gathering of pilgrims on earth, who bathe in a sacred river"
+        }
+      }
+    },
+    {
+      "id": "festivals.guru-purnima",
+      "tier": 2,
+      "w": {
+        "en": "Guru Purnima",
+        "ne": "गुरु पूर्णिमा",
+        "ro": "Guru Purnima"
+      },
+      "hint": {
+        "hard": {
+          "en": "Teachers"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Full moon day to honour teachers and mentors"
+        }
+      }
+    },
+    {
+      "id": "festivals.eid-al-fitr",
+      "tier": 1,
+      "w": {
+        "en": "Eid al-Fitr",
+        "ne": "ईद उल फित्र",
+        "ro": "Eid ul Fitr"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fasting"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Celebration marking the end of a month of daytime fasting"
+        }
+      }
+    },
+    {
+      "id": "festivals.eid-al-adha",
+      "tier": 2,
+      "w": {
+        "en": "Eid al-Adha",
+        "ne": "बकर ईद",
+        "ro": "Bakar Eid"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sacrifice"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Muslim festival of sacrifice following the pilgrimage to Mecca"
+        }
+      }
+    },
+    {
+      "id": "festivals.ramadan",
+      "tier": 1,
+      "w": {
+        "en": "Ramadan",
+        "ne": "रमजान",
+        "ro": "Ramjan"
+      },
+      "hint": {
+        "hard": {
+          "en": "Iftar"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Holy month of fasting from dawn to sunset in Islam"
+        }
+      }
+    },
+    {
+      "id": "festivals.christmas",
+      "tier": 1,
+      "w": {
+        "en": "Christmas",
+        "ne": "क्रिसमस",
+        "ro": "Christmas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Santa"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "December 25 celebration with trees, gifts and a man in red"
+        }
+      }
+    },
+    {
+      "id": "festivals.easter",
+      "tier": 1,
+      "w": {
+        "en": "Easter",
+        "ne": "इस्टर",
+        "ro": "Easter"
+      },
+      "hint": {
+        "hard": {
+          "en": "Eggs"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Christian celebration of resurrection, with decorated eggs and a bunny"
+        }
+      }
+    },
+    {
+      "id": "festivals.halloween",
+      "tier": 1,
+      "w": {
+        "en": "Halloween",
+        "ne": "हेलोवीन",
+        "ro": "Halloween"
+      },
+      "hint": {
+        "hard": {
+          "en": "Costumes"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "October 31 night of spooky costumes and carved pumpkins"
+        }
+      }
+    },
+    {
+      "id": "festivals.thanksgiving",
+      "tier": 1,
+      "w": {
+        "en": "Thanksgiving",
+        "ne": "थ्यान्क्सगिभिङ",
+        "ro": "Thanksgiving"
+      },
+      "hint": {
+        "hard": {
+          "en": "Turkey"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "American autumn holiday with a big family dinner"
+        }
+      }
+    },
+    {
+      "id": "festivals.new-years-day",
+      "tier": 1,
+      "w": {
+        "en": "New Year's Day",
+        "ne": "नयाँ वर्षको दिन",
+        "ro": "Naya Barsha ko Din"
+      },
+      "hint": {
+        "hard": {
+          "en": "January"
+        },
+        "normal": {
+          "en": "A public holiday",
+          "ne": "सार्वजनिक बिदा",
+          "ro": "Sarbajanik bida"
+        },
+        "easy": {
+          "en": "First day of the year on the Gregorian calendar"
+        }
+      }
+    },
+    {
+      "id": "festivals.valentines-day",
+      "tier": 1,
+      "w": {
+        "en": "Valentine's Day",
+        "ne": "भ्यालेन्टाइन डे",
+        "ro": "Valentine's Day"
+      },
+      "hint": {
+        "hard": {
+          "en": "Love"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "February 14 day of roses, cards and romance"
+        }
+      }
+    },
+    {
+      "id": "festivals.chinese-new-year",
+      "tier": 1,
+      "w": {
+        "en": "Chinese New Year",
+        "ne": "चिनियाँ नयाँ वर्ष",
+        "ro": "Chiniya Naya Barsha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dragon"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Lunar new year with red envelopes, lanterns and dragon dances"
+        }
+      }
+    },
+    {
+      "id": "festivals.lantern-festival",
+      "tier": 2,
+      "w": {
+        "en": "Lantern Festival",
+        "ne": "लालटिन महोत्सव",
+        "ro": "Lantern Mahotsav"
+      },
+      "hint": {
+        "hard": {
+          "en": "Glowing"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Chinese festival ending new year celebrations with floating lights and riddles"
+        }
+      }
+    },
+    {
+      "id": "festivals.mid-autumn-festival",
+      "tier": 2,
+      "w": {
+        "en": "Mid-Autumn Festival",
+        "ne": "मध्य-शरद महोत्सव",
+        "ro": "Madhya-Sharad Mahotsav"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mooncake"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "East Asian festival of the full moon with round pastries"
+        }
+      }
+    },
+    {
+      "id": "festivals.dragon-boat-festival",
+      "tier": 2,
+      "w": {
+        "en": "Dragon Boat Festival",
+        "ne": "ड्रागन बोट फेस्टिभल",
+        "ro": "Dragon Boat Festival"
+      },
+      "hint": {
+        "hard": {
+          "en": "Paddle"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Chinese festival with long boat races and sticky rice dumplings"
+        }
+      }
+    },
+    {
+      "id": "festivals.songkran",
+      "tier": 2,
+      "w": {
+        "en": "Songkran",
+        "ne": "सोङक्रान",
+        "ro": "Songkran"
+      },
+      "hint": {
+        "hard": {
+          "en": "Soaking"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Thai new year when people splash water on each other"
+        }
+      }
+    },
+    {
+      "id": "festivals.oktoberfest",
+      "tier": 2,
+      "w": {
+        "en": "Oktoberfest",
+        "ne": "ओक्टोबरफेस्ट",
+        "ro": "Oktoberfest"
+      },
+      "hint": {
+        "hard": {
+          "en": "Munich"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "German beer festival held in Munich"
+        }
+      }
+    },
+    {
+      "id": "festivals.carnival",
+      "tier": 2,
+      "w": {
+        "en": "Carnival",
+        "ne": "कार्निभल",
+        "ro": "Carnival"
+      },
+      "hint": {
+        "hard": {
+          "en": "Samba"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Colourful pre-Lent street festival famous in Rio de Janeiro"
+        }
+      }
+    },
+    {
+      "id": "festivals.mardi-gras",
+      "tier": 3,
+      "w": {
+        "en": "Mardi Gras",
+        "ne": "मार्डी ग्रा",
+        "ro": "Mardi Gras"
+      },
+      "hint": {
+        "hard": {
+          "en": "Beads"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Fat Tuesday celebration with parades in New Orleans"
+        }
+      }
+    },
+    {
+      "id": "festivals.day-of-the-dead",
+      "tier": 3,
+      "w": {
+        "en": "Day of the Dead",
+        "ne": "डे अफ द डेड",
+        "ro": "Day of the Dead"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mexico"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Mexican festival remembering lost loved ones with skulls and marigolds"
+        }
+      }
+    },
+    {
+      "id": "festivals.st-patricks-day",
+      "tier": 2,
+      "w": {
+        "en": "St. Patrick's Day",
+        "ne": "सेन्ट प्याट्रिक डे",
+        "ro": "St. Patrick's Day"
+      },
+      "hint": {
+        "hard": {
+          "en": "Green"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "March 17 Irish celebration where people wear shamrocks"
+        }
+      }
+    },
+    {
+      "id": "festivals.la-tomatina",
+      "tier": 3,
+      "w": {
+        "en": "La Tomatina",
+        "ne": "ला टोमाटिना",
+        "ro": "La Tomatina"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spain"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Spanish town festival where people throw ripe red fruit at each other"
+        }
+      }
+    },
+    {
+      "id": "festivals.hanukkah",
+      "tier": 2,
+      "w": {
+        "en": "Hanukkah",
+        "ne": "हनुका",
+        "ro": "Hanukkah"
+      },
+      "hint": {
+        "hard": {
+          "en": "Menorah"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Jewish festival of eight nights of lighting candles"
+        }
+      }
+    },
+    {
+      "id": "festivals.passover",
+      "tier": 3,
+      "w": {
+        "en": "Passover",
+        "ne": "पासओभर",
+        "ro": "Passover"
+      },
+      "hint": {
+        "hard": {
+          "en": "Seder"
+        },
+        "normal": {
+          "en": "A festival",
+          "ne": "चाड",
+          "ro": "Chad"
+        },
+        "easy": {
+          "en": "Jewish spring festival remembering the escape from Egypt"
+        }
+      }
+    },
+    {
+      "id": "festivals.independence-day",
+      "tier": 1,
+      "w": {
+        "en": "Independence Day",
+        "ne": "स्वतन्त्रता दिवस",
+        "ro": "Swatantrata Diwas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Freedom"
+        },
+        "normal": {
+          "en": "A public holiday",
+          "ne": "सार्वजनिक बिदा",
+          "ro": "Sarbajanik bida"
+        },
+        "easy": {
+          "en": "National day celebrating freedom from foreign rule"
+        }
+      }
+    }
+  ]
+}

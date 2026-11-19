@@ -1,0 +1,7403 @@
+{
+  "id": "food",
+  "version": 1,
+  "name": {
+    "en": "Food",
+    "ne": "खाना",
+    "ro": "Khana"
+  },
+  "words": [
+    {
+      "id": "food.momo",
+      "tier": 1,
+      "w": {
+        "en": "Momo",
+        "ne": "मोमो",
+        "ro": "Momo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Steamed"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Steamed dumplings served with a spicy dip"
+        }
+      }
+    },
+    {
+      "id": "food.dal-bhat",
+      "tier": 1,
+      "w": {
+        "en": "Dal bhat",
+        "ne": "दाल भात",
+        "ro": "Dal bhat"
+      },
+      "hint": {
+        "hard": {
+          "en": "Daily"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Lentil soup with rice, eaten every day"
+        }
+      }
+    },
+    {
+      "id": "food.sel-roti",
+      "tier": 2,
+      "w": {
+        "en": "Sel roti",
+        "ne": "सेल रोटी",
+        "ro": "Sel roti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Ring"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "A ring-shaped fried rice bread made for festivals"
+        }
+      }
+    },
+    {
+      "id": "food.chiya",
+      "tier": 1,
+      "w": {
+        "en": "Milk tea",
+        "ne": "चिया",
+        "ro": "Chiya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hot"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Hot spiced tea boiled with milk"
+        }
+      }
+    },
+    {
+      "id": "food.gundruk",
+      "tier": 2,
+      "w": {
+        "en": "Gundruk",
+        "ne": "गुन्द्रुक",
+        "ro": "Gundruk"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sour"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Fermented dried leafy greens, often made into soup"
+        }
+      }
+    },
+    {
+      "id": "food.thukpa",
+      "tier": 1,
+      "w": {
+        "en": "Thukpa",
+        "ne": "थुक्पा",
+        "ro": "Thukpa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Himalayan"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Hot noodle soup with vegetables or meat from the mountains"
+        }
+      }
+    },
+    {
+      "id": "food.chowmein",
+      "tier": 1,
+      "w": {
+        "en": "Chowmein",
+        "ne": "चाउमिन",
+        "ro": "Chowmein"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stir-fried"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Stir-fried noodles with vegetables"
+        }
+      }
+    },
+    {
+      "id": "food.dhindo",
+      "tier": 2,
+      "w": {
+        "en": "Dhindo",
+        "ne": "ढिँडो",
+        "ro": "Dhindo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stiff"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Thick porridge of millet or buckwheat flour eaten with soup"
+        }
+      }
+    },
+    {
+      "id": "food.choila",
+      "tier": 2,
+      "w": {
+        "en": "Choila",
+        "ne": "चोइला",
+        "ro": "Choila"
+      },
+      "hint": {
+        "hard": {
+          "en": "Grilled"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Spiced grilled buffalo meat from Newar cuisine"
+        }
+      }
+    },
+    {
+      "id": "food.bara",
+      "tier": 2,
+      "w": {
+        "en": "Bara",
+        "ne": "बारा",
+        "ro": "Bara"
+      },
+      "hint": {
+        "hard": {
+          "en": "Lentil"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Newar lentil pancake, sometimes topped with egg or meat"
+        }
+      }
+    },
+    {
+      "id": "food.yomari",
+      "tier": 2,
+      "w": {
+        "en": "Yomari",
+        "ne": "योमरी",
+        "ro": "Yomari"
+      },
+      "hint": {
+        "hard": {
+          "en": "Steamed"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Steamed rice-flour dumpling filled with molasses and sesame, made for a Newar festival"
+        }
+      }
+    },
+    {
+      "id": "food.samay-baji",
+      "tier": 3,
+      "w": {
+        "en": "Samay baji",
+        "ne": "समय बजी",
+        "ro": "Samay baji"
+      },
+      "hint": {
+        "hard": {
+          "en": "Newar"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Newar platter of beaten rice with meat, egg and pickles"
+        }
+      }
+    },
+    {
+      "id": "food.aloo-tama",
+      "tier": 2,
+      "w": {
+        "en": "Aloo tama",
+        "ne": "आलु तामा",
+        "ro": "Aloo tama"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bamboo"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Sour soup of potato and fermented bamboo shoots"
+        }
+      }
+    },
+    {
+      "id": "food.sukuti",
+      "tier": 2,
+      "w": {
+        "en": "Sukuti",
+        "ne": "सुकुटी",
+        "ro": "Sukuti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dried"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Dried spiced meat, often buffalo, eaten as a snack"
+        }
+      }
+    },
+    {
+      "id": "food.sekuwa",
+      "tier": 2,
+      "w": {
+        "en": "Sekuwa",
+        "ne": "सेकुवा",
+        "ro": "Sekuwa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Skewered"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Marinated meat roasted over charcoal"
+        }
+      }
+    },
+    {
+      "id": "food.kwati",
+      "tier": 3,
+      "w": {
+        "en": "Kwati",
+        "ne": "क्वाँटी",
+        "ro": "Kwati"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sprouted"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Soup of mixed sprouted beans eaten at the Janai Purnima festival"
+        }
+      }
+    },
+    {
+      "id": "food.chatamari",
+      "tier": 2,
+      "w": {
+        "en": "Chatamari",
+        "ne": "चटामरी",
+        "ro": "Chatamari"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crepe"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Rice-flour crepe topped with minced meat or egg, called Nepali pizza"
+        }
+      }
+    },
+    {
+      "id": "food.anarsa",
+      "tier": 3,
+      "w": {
+        "en": "Anarsa",
+        "ne": "अनारसा",
+        "ro": "Anarsa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sesame"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Fried rice-flour sweet coated in sesame seeds, made at Tihar"
+        }
+      }
+    },
+    {
+      "id": "food.lakhamari",
+      "tier": 3,
+      "w": {
+        "en": "Lakhamari",
+        "ne": "लाखामरी",
+        "ro": "Lakhamari"
+      },
+      "hint": {
+        "hard": {
+          "en": "Festive"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Hard sweet bread made at weddings and festivals in Nepal"
+        }
+      }
+    },
+    {
+      "id": "food.laphing",
+      "tier": 3,
+      "w": {
+        "en": "Laphing",
+        "ne": "ल्याफिङ",
+        "ro": "Laphing"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cold"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Cold, spicy, jelly-like noodle dish from Tibetan cuisine"
+        }
+      }
+    },
+    {
+      "id": "food.titaura",
+      "tier": 2,
+      "w": {
+        "en": "Titaura",
+        "ne": "तितौरा",
+        "ro": "Titaura"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tangy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Sweet, sour and spicy dried fruit candy"
+        }
+      }
+    },
+    {
+      "id": "food.chatpate",
+      "tier": 2,
+      "w": {
+        "en": "Chatpate",
+        "ne": "चटपटे",
+        "ro": "Chatpate"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spicy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Tangy street snack mixed from noodles, chickpeas, onion and chili"
+        }
+      }
+    },
+    {
+      "id": "food.panipuri",
+      "tier": 1,
+      "w": {
+        "en": "Pani puri",
+        "ne": "पानीपुरी",
+        "ro": "Panipuri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crispy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Crisp hollow shells filled with spicy tangy water"
+        }
+      }
+    },
+    {
+      "id": "food.samosa",
+      "tier": 1,
+      "w": {
+        "en": "Samosa",
+        "ne": "समोसा",
+        "ro": "Samosa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Triangle"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Fried triangular pastry stuffed with spiced potatoes"
+        }
+      }
+    },
+    {
+      "id": "food.pakoda",
+      "tier": 1,
+      "w": {
+        "en": "Pakoda",
+        "ne": "पकौडा",
+        "ro": "Pakoda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Battered"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Vegetables dipped in gram flour batter and deep fried"
+        }
+      }
+    },
+    {
+      "id": "food.achar",
+      "tier": 1,
+      "w": {
+        "en": "Pickle",
+        "ne": "अचार",
+        "ro": "Achar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Preserved"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Spicy preserved vegetables or fruit served on the side of a meal"
+        }
+      }
+    },
+    {
+      "id": "food.chiura",
+      "tier": 1,
+      "w": {
+        "en": "Beaten rice",
+        "ne": "चिउरा",
+        "ro": "Chiura"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flat"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Rice that has been parboiled and flattened into flakes"
+        }
+      }
+    },
+    {
+      "id": "food.muri",
+      "tier": 1,
+      "w": {
+        "en": "Puffed rice",
+        "ne": "मुरी",
+        "ro": "Muri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Puffed"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Light crunchy rice popped like popcorn"
+        }
+      }
+    },
+    {
+      "id": "food.khichadi",
+      "tier": 2,
+      "w": {
+        "en": "Khichdi",
+        "ne": "खिचडी",
+        "ro": "Khichadi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mushy"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Comforting dish of rice and lentils cooked together"
+        }
+      }
+    },
+    {
+      "id": "food.jalebi",
+      "tier": 1,
+      "w": {
+        "en": "Jalebi",
+        "ne": "जलेबी",
+        "ro": "Jalebi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spiral"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Orange spiral fried sweet soaked in syrup"
+        }
+      }
+    },
+    {
+      "id": "food.rasbari",
+      "tier": 2,
+      "w": {
+        "en": "Rasbari",
+        "ne": "रसबरी",
+        "ro": "Rasbari"
+      },
+      "hint": {
+        "hard": {
+          "en": "Syrupy"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Soft white cheese balls soaked in sweet syrup"
+        }
+      }
+    },
+    {
+      "id": "food.gulab-jamun",
+      "tier": 1,
+      "w": {
+        "en": "Gulab jamun",
+        "ne": "गुलाब जामुन",
+        "ro": "Gulab jamun"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dark"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Fried milk-solid balls soaked in rose-scented syrup"
+        }
+      }
+    },
+    {
+      "id": "food.barfi",
+      "tier": 1,
+      "w": {
+        "en": "Barfi",
+        "ne": "बर्फी",
+        "ro": "Barfi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Square"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Dense milk-based sweet cut into squares or diamonds"
+        }
+      }
+    },
+    {
+      "id": "food.laddu",
+      "tier": 1,
+      "w": {
+        "en": "Laddu",
+        "ne": "लड्डु",
+        "ro": "Laddu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Round"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Round sweet ball made from flour, sugar and ghee"
+        }
+      }
+    },
+    {
+      "id": "food.kheer",
+      "tier": 1,
+      "w": {
+        "en": "Rice pudding",
+        "ne": "खीर",
+        "ro": "Khir"
+      },
+      "hint": {
+        "hard": {
+          "en": "Creamy"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Rice slowly cooked in sweet milk with nuts"
+        }
+      }
+    },
+    {
+      "id": "food.juju-dhau",
+      "tier": 2,
+      "w": {
+        "en": "Juju dhau",
+        "ne": "जुजु धौ",
+        "ro": "Juju dhau"
+      },
+      "hint": {
+        "hard": {
+          "en": "Royal"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Creamy sweet yogurt from Bhaktapur served in clay pots"
+        }
+      }
+    },
+    {
+      "id": "food.lassi",
+      "tier": 1,
+      "w": {
+        "en": "Lassi",
+        "ne": "लस्सी",
+        "ro": "Lassi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Yogurt"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Cool drink blended from yogurt, sweet or salty"
+        }
+      }
+    },
+    {
+      "id": "food.mahi",
+      "tier": 2,
+      "w": {
+        "en": "Buttermilk",
+        "ne": "मही",
+        "ro": "Mahi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Churned"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Thin sour drink left over from churning butter"
+        }
+      }
+    },
+    {
+      "id": "food.dahi",
+      "tier": 1,
+      "w": {
+        "en": "Yogurt",
+        "ne": "दही",
+        "ro": "Dahi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Set"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Soured milk set into a thick creamy mass"
+        }
+      }
+    },
+    {
+      "id": "food.paneer",
+      "tier": 1,
+      "w": {
+        "en": "Paneer",
+        "ne": "पनीर",
+        "ro": "Panir"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cubes"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Fresh soft cheese used in curries"
+        }
+      }
+    },
+    {
+      "id": "food.chhurpi",
+      "tier": 2,
+      "w": {
+        "en": "Chhurpi",
+        "ne": "छुर्पी",
+        "ro": "Chhurpi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Chewy"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Very hard chewy cheese made from yak milk"
+        }
+      }
+    },
+    {
+      "id": "food.ghee",
+      "tier": 1,
+      "w": {
+        "en": "Ghee",
+        "ne": "घिउ",
+        "ro": "Ghiu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Clarified"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Golden butter with the milk solids removed"
+        }
+      }
+    },
+    {
+      "id": "food.butter",
+      "tier": 1,
+      "w": {
+        "en": "Butter",
+        "ne": "मक्खन",
+        "ro": "Makkhan"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spread"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Yellow fat churned from cream"
+        }
+      }
+    },
+    {
+      "id": "food.cheese",
+      "tier": 1,
+      "w": {
+        "en": "Cheese",
+        "ne": "चिज",
+        "ro": "Chij"
+      },
+      "hint": {
+        "hard": {
+          "en": "Melted"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Dairy food made by curdling and aging milk"
+        }
+      }
+    },
+    {
+      "id": "food.milk",
+      "tier": 1,
+      "w": {
+        "en": "Milk",
+        "ne": "दूध",
+        "ro": "Dudh"
+      },
+      "hint": {
+        "hard": {
+          "en": "White"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "White drink from cows, buffaloes or goats"
+        }
+      }
+    },
+    {
+      "id": "food.chicken-curry",
+      "tier": 1,
+      "w": {
+        "en": "Chicken curry",
+        "ne": "कुखुराको तरकारी",
+        "ro": "Kukhurako tarkari"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spicy"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Chicken simmered in a spiced onion and tomato gravy"
+        }
+      }
+    },
+    {
+      "id": "food.mutton",
+      "tier": 1,
+      "w": {
+        "en": "Mutton",
+        "ne": "खसीको मासु",
+        "ro": "Khasiko masu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Goat"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Meat from a goat, popular at Dashain"
+        }
+      }
+    },
+    {
+      "id": "food.buff",
+      "tier": 1,
+      "w": {
+        "en": "Buffalo meat",
+        "ne": "भैंसीको मासु",
+        "ro": "Bhaisiko masu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Water"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Common meat in Nepal taken from a water animal"
+        }
+      }
+    },
+    {
+      "id": "food.pork",
+      "tier": 1,
+      "w": {
+        "en": "Pork",
+        "ne": "सुँगुरको मासु",
+        "ro": "Sungurko masu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pig"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Meat from a pig"
+        }
+      }
+    },
+    {
+      "id": "food.egg",
+      "tier": 1,
+      "w": {
+        "en": "Egg",
+        "ne": "अण्डा",
+        "ro": "Anda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Shell"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Oval food laid by hens, with a white and a yolk"
+        }
+      }
+    },
+    {
+      "id": "food.boiled-egg",
+      "tier": 1,
+      "w": {
+        "en": "Boiled egg",
+        "ne": "उमालेको अण्डा",
+        "ro": "Umaleko anda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hard"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Egg cooked in its shell in hot water"
+        }
+      }
+    },
+    {
+      "id": "food.omelette",
+      "tier": 1,
+      "w": {
+        "en": "Omelette",
+        "ne": "अमलेट",
+        "ro": "Omelette"
+      },
+      "hint": {
+        "hard": {
+          "en": "Folded"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Beaten eggs fried flat and folded over"
+        }
+      }
+    },
+    {
+      "id": "food.fish",
+      "tier": 1,
+      "w": {
+        "en": "Fish",
+        "ne": "माछा",
+        "ro": "Machha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Scales"
+        },
+        "normal": {
+          "en": "Seafood",
+          "ne": "माछाजन्य खाना",
+          "ro": "Machhajanya khana"
+        },
+        "easy": {
+          "en": "Swimming animal often fried or cooked in curry"
+        }
+      }
+    },
+    {
+      "id": "food.prawn",
+      "tier": 2,
+      "w": {
+        "en": "Prawn",
+        "ne": "झिँगे माछा",
+        "ro": "Jhinge machha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pink"
+        },
+        "normal": {
+          "en": "Seafood",
+          "ne": "माछाजन्य खाना",
+          "ro": "Machhajanya khana"
+        },
+        "easy": {
+          "en": "Curved shellfish with a tail, often fried or grilled"
+        }
+      }
+    },
+    {
+      "id": "food.sausage",
+      "tier": 1,
+      "w": {
+        "en": "Sausage",
+        "ne": "स्यौसेज",
+        "ro": "Sausage"
+      },
+      "hint": {
+        "hard": {
+          "en": "Casing"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Minced seasoned meat packed into a tube"
+        }
+      }
+    },
+    {
+      "id": "food.rice",
+      "tier": 1,
+      "w": {
+        "en": "Rice",
+        "ne": "चामल",
+        "ro": "Chamal"
+      },
+      "hint": {
+        "hard": {
+          "en": "Staple"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Small white grains eaten with most meals in Nepal"
+        }
+      }
+    },
+    {
+      "id": "food.wheat",
+      "tier": 1,
+      "w": {
+        "en": "Wheat",
+        "ne": "गहुँ",
+        "ro": "Gahun"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flour"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Golden grain ground to make bread"
+        }
+      }
+    },
+    {
+      "id": "food.millet",
+      "tier": 2,
+      "w": {
+        "en": "Millet",
+        "ne": "कोदो",
+        "ro": "Kodo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tiny"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Small hill grain used for porridge and for brewing"
+        }
+      }
+    },
+    {
+      "id": "food.buckwheat",
+      "tier": 2,
+      "w": {
+        "en": "Buckwheat",
+        "ne": "फापर",
+        "ro": "Phapar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hill"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Triangular seed grown in the mountains and ground into flour"
+        }
+      }
+    },
+    {
+      "id": "food.barley",
+      "tier": 2,
+      "w": {
+        "en": "Barley",
+        "ne": "जौ",
+        "ro": "Jau"
+      },
+      "hint": {
+        "hard": {
+          "en": "Malt"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Cereal used in soups, bread and beer"
+        }
+      }
+    },
+    {
+      "id": "food.oats",
+      "tier": 1,
+      "w": {
+        "en": "Oats",
+        "ne": "ओट्स",
+        "ro": "Oats"
+      },
+      "hint": {
+        "hard": {
+          "en": "Porridge"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Rolled grain eaten for breakfast"
+        }
+      }
+    },
+    {
+      "id": "food.lentils",
+      "tier": 1,
+      "w": {
+        "en": "Lentils",
+        "ne": "दाल",
+        "ro": "Dal"
+      },
+      "hint": {
+        "hard": {
+          "en": "Split"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Small dried pulses cooked into soup"
+        }
+      }
+    },
+    {
+      "id": "food.chickpeas",
+      "tier": 1,
+      "w": {
+        "en": "Chickpeas",
+        "ne": "चना",
+        "ro": "Chana"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hummus"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Round beige legumes used in curries and spreads"
+        }
+      }
+    },
+    {
+      "id": "food.soybeans",
+      "tier": 2,
+      "w": {
+        "en": "Soybeans",
+        "ne": "भटमास",
+        "ro": "Bhatmas"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fried"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Beans that are often roasted or fried and eaten as a snack"
+        }
+      }
+    },
+    {
+      "id": "food.flour",
+      "tier": 1,
+      "w": {
+        "en": "Flour",
+        "ne": "पिठो",
+        "ro": "Pitho"
+      },
+      "hint": {
+        "hard": {
+          "en": "Ground"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Fine powder milled from grain"
+        }
+      }
+    },
+    {
+      "id": "food.roti",
+      "tier": 1,
+      "w": {
+        "en": "Roti",
+        "ne": "रोटी",
+        "ro": "Roti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flat"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Round flat bread cooked on a griddle"
+        }
+      }
+    },
+    {
+      "id": "food.paratha",
+      "tier": 1,
+      "w": {
+        "en": "Paratha",
+        "ne": "पराठा",
+        "ro": "Paratha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layered"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Flaky pan-fried flatbread brushed with ghee"
+        }
+      }
+    },
+    {
+      "id": "food.naan",
+      "tier": 1,
+      "w": {
+        "en": "Naan",
+        "ne": "नान",
+        "ro": "Naan"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tandoor"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Soft leavened flatbread baked in a clay oven"
+        }
+      }
+    },
+    {
+      "id": "food.puri",
+      "tier": 1,
+      "w": {
+        "en": "Puri",
+        "ne": "पुरी",
+        "ro": "Puri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Puffed"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Round bread that puffs up when deep fried"
+        }
+      }
+    },
+    {
+      "id": "food.bread",
+      "tier": 1,
+      "w": {
+        "en": "Bread",
+        "ne": "पाउरोटी",
+        "ro": "Pauroti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Loaf"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Baked dough sliced for toast and sandwiches"
+        }
+      }
+    },
+    {
+      "id": "food.noodles",
+      "tier": 1,
+      "w": {
+        "en": "Noodles",
+        "ne": "नुडल्स",
+        "ro": "Noodles"
+      },
+      "hint": {
+        "hard": {
+          "en": "Long"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Long thin strands of dough boiled or fried"
+        }
+      }
+    },
+    {
+      "id": "food.pulao",
+      "tier": 1,
+      "w": {
+        "en": "Pulao",
+        "ne": "पुलाउ",
+        "ro": "Pulau"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fragrant"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Rice cooked with spices and sometimes peas or nuts"
+        }
+      }
+    },
+    {
+      "id": "food.biryani",
+      "tier": 1,
+      "w": {
+        "en": "Biryani",
+        "ne": "बिरयानी",
+        "ro": "Biryani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layered"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Spiced rice layered with meat and cooked slowly"
+        }
+      }
+    },
+    {
+      "id": "food.fried-rice",
+      "tier": 1,
+      "w": {
+        "en": "Fried rice",
+        "ne": "फ्राइड राइस",
+        "ro": "Fried rice"
+      },
+      "hint": {
+        "hard": {
+          "en": "Wok"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Cooked rice stir-fried with egg and vegetables"
+        }
+      }
+    },
+    {
+      "id": "food.potato",
+      "tier": 1,
+      "w": {
+        "en": "Potato",
+        "ne": "आलु",
+        "ro": "Aalu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tuber"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Underground vegetable that is boiled, mashed or fried"
+        }
+      }
+    },
+    {
+      "id": "food.tomato",
+      "tier": 1,
+      "w": {
+        "en": "Tomato",
+        "ne": "गोलभेँडा",
+        "ro": "Golbheda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Red"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Juicy red fruit used as a vegetable in sauces"
+        }
+      }
+    },
+    {
+      "id": "food.onion",
+      "tier": 1,
+      "w": {
+        "en": "Onion",
+        "ne": "प्याज",
+        "ro": "Pyaj"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layers"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Round bulb that makes your eyes water when cut"
+        }
+      }
+    },
+    {
+      "id": "food.garlic",
+      "tier": 1,
+      "w": {
+        "en": "Garlic",
+        "ne": "लसुन",
+        "ro": "Lasun"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cloves"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Pungent bulb made of small cloves"
+        }
+      }
+    },
+    {
+      "id": "food.ginger",
+      "tier": 1,
+      "w": {
+        "en": "Ginger",
+        "ne": "अदुवा",
+        "ro": "Aduwa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Root"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Hot knobbly root used in tea and cooking"
+        }
+      }
+    },
+    {
+      "id": "food.cauliflower",
+      "tier": 1,
+      "w": {
+        "en": "Cauliflower",
+        "ne": "काउली",
+        "ro": "Kauli"
+      },
+      "hint": {
+        "hard": {
+          "en": "White"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Vegetable with a white head of tight florets"
+        }
+      }
+    },
+    {
+      "id": "food.cabbage",
+      "tier": 1,
+      "w": {
+        "en": "Cabbage",
+        "ne": "बन्दागोभी",
+        "ro": "Bandagobhi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Leafy"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Round vegetable made of tightly packed green leaves"
+        }
+      }
+    },
+    {
+      "id": "food.carrot",
+      "tier": 1,
+      "w": {
+        "en": "Carrot",
+        "ne": "गाजर",
+        "ro": "Gajar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Orange"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Long orange root vegetable"
+        }
+      }
+    },
+    {
+      "id": "food.cucumber",
+      "tier": 1,
+      "w": {
+        "en": "Cucumber",
+        "ne": "काँक्रो",
+        "ro": "Kakro"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cool"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Long green vegetable eaten raw in salads"
+        }
+      }
+    },
+    {
+      "id": "food.eggplant",
+      "tier": 1,
+      "w": {
+        "en": "Eggplant",
+        "ne": "भन्टा",
+        "ro": "Bhanta"
+      },
+      "hint": {
+        "hard": {
+          "en": "Purple"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Large glossy purple vegetable"
+        }
+      }
+    },
+    {
+      "id": "food.okra",
+      "tier": 2,
+      "w": {
+        "en": "Okra",
+        "ne": "भिन्डी",
+        "ro": "Bhindi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sticky"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Green ridged pods called lady's fingers"
+        }
+      }
+    },
+    {
+      "id": "food.peas",
+      "tier": 1,
+      "w": {
+        "en": "Peas",
+        "ne": "मटर",
+        "ro": "Matar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pod"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Small green seeds that grow in pods"
+        }
+      }
+    },
+    {
+      "id": "food.corn",
+      "tier": 1,
+      "w": {
+        "en": "Corn",
+        "ne": "मकै",
+        "ro": "Makai"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cob"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Yellow kernels on a cob, often roasted"
+        }
+      }
+    },
+    {
+      "id": "food.chili",
+      "tier": 1,
+      "w": {
+        "en": "Chili",
+        "ne": "खुर्सानी",
+        "ro": "Khursani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hot"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Small pepper that burns your mouth"
+        }
+      }
+    },
+    {
+      "id": "food.beans",
+      "tier": 1,
+      "w": {
+        "en": "Beans",
+        "ne": "सिमी",
+        "ro": "Simi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Green"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Long green pods or seeds eaten cooked"
+        }
+      }
+    },
+    {
+      "id": "food.spinach",
+      "tier": 1,
+      "w": {
+        "en": "Spinach",
+        "ne": "पालुङ्गो",
+        "ro": "Palungo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Leaf"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Dark green leaf famous for iron"
+        }
+      }
+    },
+    {
+      "id": "food.leafy-greens",
+      "tier": 1,
+      "w": {
+        "en": "Leafy greens",
+        "ne": "साग",
+        "ro": "Saag"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stir-fried"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Green leaves cooked with garlic and oil"
+        }
+      }
+    },
+    {
+      "id": "food.radish",
+      "tier": 1,
+      "w": {
+        "en": "Radish",
+        "ne": "मूला",
+        "ro": "Mula"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crunchy"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "White or red root eaten raw or pickled"
+        }
+      }
+    },
+    {
+      "id": "food.bitter-gourd",
+      "tier": 2,
+      "w": {
+        "en": "Bitter gourd",
+        "ne": "तितो करेला",
+        "ro": "Tito karela"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bumpy"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Green warty vegetable with a strong bitter taste"
+        }
+      }
+    },
+    {
+      "id": "food.pumpkin",
+      "tier": 1,
+      "w": {
+        "en": "Pumpkin",
+        "ne": "फर्सी",
+        "ro": "Farsi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Squash"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Large orange vegetable that grows on a vine"
+        }
+      }
+    },
+    {
+      "id": "food.yam",
+      "tier": 2,
+      "w": {
+        "en": "Yam",
+        "ne": "तरुल",
+        "ro": "Tarul"
+      },
+      "hint": {
+        "hard": {
+          "en": "Starchy"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Starchy tuber often boiled or roasted"
+        }
+      }
+    },
+    {
+      "id": "food.mushroom",
+      "tier": 1,
+      "w": {
+        "en": "Mushroom",
+        "ne": "च्याउ",
+        "ro": "Chyau"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fungus"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Edible fungus with a cap and a stalk"
+        }
+      }
+    },
+    {
+      "id": "food.bamboo-shoot",
+      "tier": 2,
+      "w": {
+        "en": "Bamboo shoot",
+        "ne": "तामा",
+        "ro": "Tama"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tender"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Young sprout of a tall grass, often fermented"
+        }
+      }
+    },
+    {
+      "id": "food.mango",
+      "tier": 1,
+      "w": {
+        "en": "Mango",
+        "ne": "आँप",
+        "ro": "Aap"
+      },
+      "hint": {
+        "hard": {
+          "en": "King"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Sweet yellow tropical fruit with a large stone"
+        }
+      }
+    },
+    {
+      "id": "food.banana",
+      "tier": 1,
+      "w": {
+        "en": "Banana",
+        "ne": "केरा",
+        "ro": "Kera"
+      },
+      "hint": {
+        "hard": {
+          "en": "Peel"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Long yellow fruit with a thick skin"
+        }
+      }
+    },
+    {
+      "id": "food.apple",
+      "tier": 1,
+      "w": {
+        "en": "Apple",
+        "ne": "स्याउ",
+        "ro": "Syau"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crisp"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Round fruit that is red, green or yellow"
+        }
+      }
+    },
+    {
+      "id": "food.orange",
+      "tier": 1,
+      "w": {
+        "en": "Orange",
+        "ne": "सुन्तला",
+        "ro": "Suntala"
+      },
+      "hint": {
+        "hard": {
+          "en": "Citrus"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Round juicy citrus fruit with a peel"
+        }
+      }
+    },
+    {
+      "id": "food.lemon",
+      "tier": 1,
+      "w": {
+        "en": "Lemon",
+        "ne": "कागती",
+        "ro": "Kagati"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sour"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Yellow citrus fruit with sharp juice"
+        }
+      }
+    },
+    {
+      "id": "food.papaya",
+      "tier": 1,
+      "w": {
+        "en": "Papaya",
+        "ne": "मेवा",
+        "ro": "Mewa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Orange"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Soft orange tropical fruit with black seeds"
+        }
+      }
+    },
+    {
+      "id": "food.grapes",
+      "tier": 1,
+      "w": {
+        "en": "Grapes",
+        "ne": "अङ्गुर",
+        "ro": "Angur"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bunch"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small round fruits growing in clusters"
+        }
+      }
+    },
+    {
+      "id": "food.pineapple",
+      "tier": 1,
+      "w": {
+        "en": "Pineapple",
+        "ne": "भुइँकटहर",
+        "ro": "Bhuikatahar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spiky"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Tropical fruit with a rough crown of leaves"
+        }
+      }
+    },
+    {
+      "id": "food.watermelon",
+      "tier": 1,
+      "w": {
+        "en": "Watermelon",
+        "ne": "तरबुजा",
+        "ro": "Tarbuja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Summer"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Huge green fruit with red juicy flesh"
+        }
+      }
+    },
+    {
+      "id": "food.pomegranate",
+      "tier": 2,
+      "w": {
+        "en": "Pomegranate",
+        "ne": "अनार",
+        "ro": "Anar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Seeds"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Red fruit full of juicy ruby seeds"
+        }
+      }
+    },
+    {
+      "id": "food.guava",
+      "tier": 2,
+      "w": {
+        "en": "Guava",
+        "ne": "अम्बा",
+        "ro": "Amba"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fragrant"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Round green fruit with pink or white flesh"
+        }
+      }
+    },
+    {
+      "id": "food.jackfruit",
+      "tier": 2,
+      "w": {
+        "en": "Jackfruit",
+        "ne": "रुखकटहर",
+        "ro": "Rukhkatahar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Giant"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Very large spiky fruit used as meat substitute when unripe"
+        }
+      }
+    },
+    {
+      "id": "food.litchi",
+      "tier": 2,
+      "w": {
+        "en": "Litchi",
+        "ne": "लिची",
+        "ro": "Lichi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rough"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small fruit with rough red skin and white sweet flesh"
+        }
+      }
+    },
+    {
+      "id": "food.coconut",
+      "tier": 1,
+      "w": {
+        "en": "Coconut",
+        "ne": "नरिवल",
+        "ro": "Nariwal"
+      },
+      "hint": {
+        "hard": {
+          "en": "Husk"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Large hairy shell with water and white flesh inside"
+        }
+      }
+    },
+    {
+      "id": "food.dates",
+      "tier": 2,
+      "w": {
+        "en": "Dates",
+        "ne": "खजुर",
+        "ro": "Khajur"
+      },
+      "hint": {
+        "hard": {
+          "en": "Palm"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Sweet brown fruits of a desert palm"
+        }
+      }
+    },
+    {
+      "id": "food.pear",
+      "tier": 1,
+      "w": {
+        "en": "Pear",
+        "ne": "नास्पाती",
+        "ro": "Naspati"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bell-shaped"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Sweet fruit that is wide at the bottom and narrow on top"
+        }
+      }
+    },
+    {
+      "id": "food.peach",
+      "tier": 2,
+      "w": {
+        "en": "Peach",
+        "ne": "आरु",
+        "ro": "Aaru"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fuzzy"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Soft round fruit with fuzzy skin and a hard stone"
+        }
+      }
+    },
+    {
+      "id": "food.persimmon",
+      "tier": 3,
+      "w": {
+        "en": "Persimmon",
+        "ne": "हलुवाबेद",
+        "ro": "Haluwabed"
+      },
+      "hint": {
+        "hard": {
+          "en": "Orange"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Orange fruit that is sweet when fully ripe"
+        }
+      }
+    },
+    {
+      "id": "food.lapsi",
+      "tier": 3,
+      "w": {
+        "en": "Lapsi",
+        "ne": "लप्सी",
+        "ro": "Lapsi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hog plum"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Sour green fruit made into candy and pickle in Nepal"
+        }
+      }
+    },
+    {
+      "id": "food.strawberry",
+      "tier": 1,
+      "w": {
+        "en": "Strawberry",
+        "ne": "स्ट्रबेरी",
+        "ro": "Strawberry"
+      },
+      "hint": {
+        "hard": {
+          "en": "Seeded"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small red berry with seeds on the outside"
+        }
+      }
+    },
+    {
+      "id": "food.kiwi",
+      "tier": 2,
+      "w": {
+        "en": "Kiwi",
+        "ne": "कीवी",
+        "ro": "Kiwi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fuzzy"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Brown fuzzy fruit with green flesh"
+        }
+      }
+    },
+    {
+      "id": "food.cherry",
+      "tier": 2,
+      "w": {
+        "en": "Cherry",
+        "ne": "चेरी",
+        "ro": "Cherry"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stone"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small red round fruit on a stem"
+        }
+      }
+    },
+    {
+      "id": "food.walnut",
+      "tier": 2,
+      "w": {
+        "en": "Walnut",
+        "ne": "ओखर",
+        "ro": "Okhar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Brain"
+        },
+        "normal": {
+          "en": "A nut",
+          "ne": "गिरी",
+          "ro": "Giri"
+        },
+        "easy": {
+          "en": "Wrinkled nut that looks like a tiny brain"
+        }
+      }
+    },
+    {
+      "id": "food.peanut",
+      "tier": 1,
+      "w": {
+        "en": "Peanut",
+        "ne": "बदाम",
+        "ro": "Badam"
+      },
+      "hint": {
+        "hard": {
+          "en": "Roasted"
+        },
+        "normal": {
+          "en": "A nut",
+          "ne": "गिरी",
+          "ro": "Giri"
+        },
+        "easy": {
+          "en": "Small legume that grows underground and is eaten as a nut"
+        }
+      }
+    },
+    {
+      "id": "food.cashew",
+      "tier": 2,
+      "w": {
+        "en": "Cashew",
+        "ne": "काजु",
+        "ro": "Kaju"
+      },
+      "hint": {
+        "hard": {
+          "en": "Curved"
+        },
+        "normal": {
+          "en": "A nut",
+          "ne": "गिरी",
+          "ro": "Giri"
+        },
+        "easy": {
+          "en": "Kidney-shaped creamy nut"
+        }
+      }
+    },
+    {
+      "id": "food.water",
+      "tier": 1,
+      "w": {
+        "en": "Water",
+        "ne": "पानी",
+        "ro": "Pani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Clear"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Clear liquid we drink to stay alive"
+        }
+      }
+    },
+    {
+      "id": "food.coffee",
+      "tier": 1,
+      "w": {
+        "en": "Coffee",
+        "ne": "कफी",
+        "ro": "Kafi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Brewed"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Dark hot drink made from roasted beans"
+        }
+      }
+    },
+    {
+      "id": "food.black-tea",
+      "tier": 1,
+      "w": {
+        "en": "Black tea",
+        "ne": "कालो चिया",
+        "ro": "Kalo chiya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dark"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Tea served without milk"
+        }
+      }
+    },
+    {
+      "id": "food.juice",
+      "tier": 1,
+      "w": {
+        "en": "Juice",
+        "ne": "जुस",
+        "ro": "Jus"
+      },
+      "hint": {
+        "hard": {
+          "en": "Squeezed"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Drink pressed from fruits"
+        }
+      }
+    },
+    {
+      "id": "food.tongba",
+      "tier": 2,
+      "w": {
+        "en": "Tongba",
+        "ne": "तोङ्बा",
+        "ro": "Tongba"
+      },
+      "hint": {
+        "hard": {
+          "en": "Millet"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Warm fermented millet drink sipped through a bamboo straw"
+        }
+      }
+    },
+    {
+      "id": "food.raksi",
+      "tier": 2,
+      "w": {
+        "en": "Raksi",
+        "ne": "रक्सी",
+        "ro": "Raksi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Distilled"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Strong clear spirit distilled in Nepali villages"
+        }
+      }
+    },
+    {
+      "id": "food.beer",
+      "tier": 1,
+      "w": {
+        "en": "Beer",
+        "ne": "बियर",
+        "ro": "Biyar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Foam"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Fizzy drink brewed from barley"
+        }
+      }
+    },
+    {
+      "id": "food.wine",
+      "tier": 1,
+      "w": {
+        "en": "Wine",
+        "ne": "वाइन",
+        "ro": "Wine"
+      },
+      "hint": {
+        "hard": {
+          "en": "Vineyard"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Drink fermented from grapes"
+        }
+      }
+    },
+    {
+      "id": "food.cola",
+      "tier": 1,
+      "w": {
+        "en": "Cola",
+        "ne": "कोला",
+        "ro": "Kola"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fizzy"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Sweet dark fizzy soft drink"
+        }
+      }
+    },
+    {
+      "id": "food.sugarcane-juice",
+      "tier": 2,
+      "w": {
+        "en": "Sugarcane juice",
+        "ne": "उखुको रस",
+        "ro": "Ukhuko ras"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pressed"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Sweet green drink squeezed from tall stalks"
+        }
+      }
+    },
+    {
+      "id": "food.honey",
+      "tier": 1,
+      "w": {
+        "en": "Honey",
+        "ne": "मह",
+        "ro": "Mah"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bees"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Golden sweet liquid made by bees"
+        }
+      }
+    },
+    {
+      "id": "food.sugar",
+      "tier": 1,
+      "w": {
+        "en": "Sugar",
+        "ne": "चिनी",
+        "ro": "Chini"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sweetener"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "White crystals that make food sweet"
+        }
+      }
+    },
+    {
+      "id": "food.salt",
+      "tier": 1,
+      "w": {
+        "en": "Salt",
+        "ne": "नुन",
+        "ro": "Nun"
+      },
+      "hint": {
+        "hard": {
+          "en": "Seasoning"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "White crystals that make food salty"
+        }
+      }
+    },
+    {
+      "id": "food.oil",
+      "tier": 1,
+      "w": {
+        "en": "Cooking oil",
+        "ne": "तेल",
+        "ro": "Tel"
+      },
+      "hint": {
+        "hard": {
+          "en": "Frying"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Liquid fat used for frying and cooking"
+        }
+      }
+    },
+    {
+      "id": "food.jaggery",
+      "tier": 2,
+      "w": {
+        "en": "Jaggery",
+        "ne": "चाकु",
+        "ro": "Chaku"
+      },
+      "hint": {
+        "hard": {
+          "en": "Molasses"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Dark unrefined block of sugarcane sweetener"
+        }
+      }
+    },
+    {
+      "id": "food.turmeric",
+      "tier": 1,
+      "w": {
+        "en": "Turmeric",
+        "ne": "बेसार",
+        "ro": "Besar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Yellow"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Bright yellow powder from a root"
+        }
+      }
+    },
+    {
+      "id": "food.cumin",
+      "tier": 1,
+      "w": {
+        "en": "Cumin",
+        "ne": "जिरा",
+        "ro": "Jira"
+      },
+      "hint": {
+        "hard": {
+          "en": "Seeds"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Earthy brown seeds used in curries"
+        }
+      }
+    },
+    {
+      "id": "food.coriander",
+      "tier": 1,
+      "w": {
+        "en": "Coriander",
+        "ne": "धनिया",
+        "ro": "Dhaniya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cilantro"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Herb and seed with a fresh citrus flavor"
+        }
+      }
+    },
+    {
+      "id": "food.cardamom",
+      "tier": 2,
+      "w": {
+        "en": "Cardamom",
+        "ne": "सुकुमेल",
+        "ro": "Sukumel"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pods"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Fragrant green pods used in tea and sweets"
+        }
+      }
+    },
+    {
+      "id": "food.cinnamon",
+      "tier": 1,
+      "w": {
+        "en": "Cinnamon",
+        "ne": "दालचिनी",
+        "ro": "Dalchini"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bark"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Sweet brown spice from the bark of a tree"
+        }
+      }
+    },
+    {
+      "id": "food.clove",
+      "tier": 2,
+      "w": {
+        "en": "Clove",
+        "ne": "ल्वाङ",
+        "ro": "Lwang"
+      },
+      "hint": {
+        "hard": {
+          "en": "Nail-shaped"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Small dried flower bud with a strong aroma"
+        }
+      }
+    },
+    {
+      "id": "food.black-pepper",
+      "tier": 1,
+      "w": {
+        "en": "Black pepper",
+        "ne": "मरिच",
+        "ro": "Marich"
+      },
+      "hint": {
+        "hard": {
+          "en": "Peppercorn"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Hot black spice ground over food"
+        }
+      }
+    },
+    {
+      "id": "food.timur",
+      "tier": 2,
+      "w": {
+        "en": "Timur",
+        "ne": "टिमुर",
+        "ro": "Timur"
+      },
+      "hint": {
+        "hard": {
+          "en": "Numbing"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Tingly Nepali pepper that numbs the tongue"
+        }
+      }
+    },
+    {
+      "id": "food.mustard-seed",
+      "tier": 2,
+      "w": {
+        "en": "Mustard seed",
+        "ne": "तोरी",
+        "ro": "Tori"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tiny"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Small round seeds pressed for yellow oil"
+        }
+      }
+    },
+    {
+      "id": "food.fenugreek",
+      "tier": 3,
+      "w": {
+        "en": "Fenugreek",
+        "ne": "मेथी",
+        "ro": "Methi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bitter"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Small golden seeds and leaves used in curries"
+        }
+      }
+    },
+    {
+      "id": "food.asafoetida",
+      "tier": 3,
+      "w": {
+        "en": "Asafoetida",
+        "ne": "हिङ",
+        "ro": "Hing"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pungent"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Strong smelling resin used in lentil dishes"
+        }
+      }
+    },
+    {
+      "id": "food.saffron",
+      "tier": 2,
+      "w": {
+        "en": "Saffron",
+        "ne": "केसर",
+        "ro": "Kesar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Costly"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Red threads from a crocus, the most expensive spice"
+        }
+      }
+    },
+    {
+      "id": "food.mint",
+      "tier": 1,
+      "w": {
+        "en": "Mint",
+        "ne": "पुदिना",
+        "ro": "Pudina"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cool"
+        },
+        "normal": {
+          "en": "A spice",
+          "ne": "मसला",
+          "ro": "Masala"
+        },
+        "easy": {
+          "en": "Fresh green herb with a cooling taste"
+        }
+      }
+    },
+    {
+      "id": "food.ketchup",
+      "tier": 1,
+      "w": {
+        "en": "Ketchup",
+        "ne": "केचप",
+        "ro": "Ketchup"
+      },
+      "hint": {
+        "hard": {
+          "en": "Red"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Sweet red sauce served with fries"
+        }
+      }
+    },
+    {
+      "id": "food.papad",
+      "tier": 2,
+      "w": {
+        "en": "Papad",
+        "ne": "पापड",
+        "ro": "Papad"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thin"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Thin crisp lentil wafer"
+        }
+      }
+    },
+    {
+      "id": "food.chips",
+      "tier": 1,
+      "w": {
+        "en": "Chips",
+        "ne": "चिप्स",
+        "ro": "Chips"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crisp"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Thin fried slices of potato sold in packets"
+        }
+      }
+    },
+    {
+      "id": "food.french-fries",
+      "tier": 1,
+      "w": {
+        "en": "French fries",
+        "ne": "फ्रेन्च फ्राइज",
+        "ro": "French fries"
+      },
+      "hint": {
+        "hard": {
+          "en": "Golden"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Potato sticks deep fried until crisp"
+        }
+      }
+    },
+    {
+      "id": "food.pizza",
+      "tier": 1,
+      "w": {
+        "en": "Pizza",
+        "ne": "पिज्जा",
+        "ro": "Pizza"
+      },
+      "hint": {
+        "hard": {
+          "en": "Slice"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Round baked dough topped with cheese and tomato"
+        }
+      }
+    },
+    {
+      "id": "food.burger",
+      "tier": 1,
+      "w": {
+        "en": "Burger",
+        "ne": "बर्गर",
+        "ro": "Burger"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bun"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Patty of meat or vegetables inside a round bun"
+        }
+      }
+    },
+    {
+      "id": "food.sandwich",
+      "tier": 1,
+      "w": {
+        "en": "Sandwich",
+        "ne": "स्यान्डविच",
+        "ro": "Sandwich"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layered"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Fillings placed between two slices of bread"
+        }
+      }
+    },
+    {
+      "id": "food.pasta",
+      "tier": 1,
+      "w": {
+        "en": "Pasta",
+        "ne": "पास्ता",
+        "ro": "Pasta"
+      },
+      "hint": {
+        "hard": {
+          "en": "Italian"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Shaped dough boiled and served with sauce"
+        }
+      }
+    },
+    {
+      "id": "food.spaghetti",
+      "tier": 1,
+      "w": {
+        "en": "Spaghetti",
+        "ne": "स्प्यागेटी",
+        "ro": "Spaghetti"
+      },
+      "hint": {
+        "hard": {
+          "en": "Strands"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Long thin Italian pasta"
+        }
+      }
+    },
+    {
+      "id": "food.lasagna",
+      "tier": 2,
+      "w": {
+        "en": "Lasagna",
+        "ne": "ल्यासाग्ना",
+        "ro": "Lasagna"
+      },
+      "hint": {
+        "hard": {
+          "en": "Baked"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Layers of flat pasta, sauce and cheese baked together"
+        }
+      }
+    },
+    {
+      "id": "food.sushi",
+      "tier": 1,
+      "w": {
+        "en": "Sushi",
+        "ne": "सुशी",
+        "ro": "Sushi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Japanese"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Vinegared rice with raw fish or vegetables, often rolled in seaweed"
+        }
+      }
+    },
+    {
+      "id": "food.ramen",
+      "tier": 2,
+      "w": {
+        "en": "Ramen",
+        "ne": "रामेन",
+        "ro": "Ramen"
+      },
+      "hint": {
+        "hard": {
+          "en": "Japanese"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Noodles in a rich broth topped with egg and pork"
+        }
+      }
+    },
+    {
+      "id": "food.tempura",
+      "tier": 3,
+      "w": {
+        "en": "Tempura",
+        "ne": "टेम्पुरा",
+        "ro": "Tempura"
+      },
+      "hint": {
+        "hard": {
+          "en": "Light"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Seafood and vegetables fried in a light batter from Japan"
+        }
+      }
+    },
+    {
+      "id": "food.kimchi",
+      "tier": 2,
+      "w": {
+        "en": "Kimchi",
+        "ne": "किमची",
+        "ro": "Kimchi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Korean"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Spicy fermented cabbage from Korea"
+        }
+      }
+    },
+    {
+      "id": "food.pad-thai",
+      "tier": 3,
+      "w": {
+        "en": "Pad Thai",
+        "ne": "प्याड थाई",
+        "ro": "Pad Thai"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thai"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Stir-fried rice noodles with peanuts and lime from Thailand"
+        }
+      }
+    },
+    {
+      "id": "food.pho",
+      "tier": 3,
+      "w": {
+        "en": "Pho",
+        "ne": "फो",
+        "ro": "Pho"
+      },
+      "hint": {
+        "hard": {
+          "en": "Vietnamese"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Fragrant noodle soup from Vietnam"
+        }
+      }
+    },
+    {
+      "id": "food.spring-roll",
+      "tier": 1,
+      "w": {
+        "en": "Spring roll",
+        "ne": "स्प्रिङ रोल",
+        "ro": "Spring roll"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rolled"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Thin pastry wrapped around vegetables and fried"
+        }
+      }
+    },
+    {
+      "id": "food.dosa",
+      "tier": 2,
+      "w": {
+        "en": "Dosa",
+        "ne": "डोसा",
+        "ro": "Dosa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thin"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Thin crisp pancake from South India"
+        }
+      }
+    },
+    {
+      "id": "food.idli",
+      "tier": 2,
+      "w": {
+        "en": "Idli",
+        "ne": "इडली",
+        "ro": "Idli"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fluffy"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Soft steamed rice cake from South India"
+        }
+      }
+    },
+    {
+      "id": "food.butter-chicken",
+      "tier": 1,
+      "w": {
+        "en": "Butter chicken",
+        "ne": "बटर चिकेन",
+        "ro": "Butter chicken"
+      },
+      "hint": {
+        "hard": {
+          "en": "Creamy"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Chicken in a rich buttery tomato sauce"
+        }
+      }
+    },
+    {
+      "id": "food.tandoori",
+      "tier": 2,
+      "w": {
+        "en": "Tandoori chicken",
+        "ne": "तन्दुरी चिकेन",
+        "ro": "Tandoori chicken"
+      },
+      "hint": {
+        "hard": {
+          "en": "Clay oven"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Chicken marinated in yogurt and spices and roasted in a clay oven"
+        }
+      }
+    },
+    {
+      "id": "food.kebab",
+      "tier": 1,
+      "w": {
+        "en": "Kebab",
+        "ne": "कबाब",
+        "ro": "Kabab"
+      },
+      "hint": {
+        "hard": {
+          "en": "Skewer"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Grilled pieces of seasoned meat"
+        }
+      }
+    },
+    {
+      "id": "food.shawarma",
+      "tier": 2,
+      "w": {
+        "en": "Shawarma",
+        "ne": "सावार्मा",
+        "ro": "Shawarma"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rotating"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Sliced meat from a spinning spit wrapped in flatbread"
+        }
+      }
+    },
+    {
+      "id": "food.falafel",
+      "tier": 2,
+      "w": {
+        "en": "Falafel",
+        "ne": "फलाफेल",
+        "ro": "Falafel"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fried"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Crispy fried balls made from ground chickpeas"
+        }
+      }
+    },
+    {
+      "id": "food.hummus",
+      "tier": 2,
+      "w": {
+        "en": "Hummus",
+        "ne": "हुमस",
+        "ro": "Hummus"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dip"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Creamy chickpea spread from the Middle East"
+        }
+      }
+    },
+    {
+      "id": "food.chaat",
+      "tier": 2,
+      "w": {
+        "en": "Chaat",
+        "ne": "चाट",
+        "ro": "Chaat"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tangy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Savory Indian street snack with chutney and yogurt"
+        }
+      }
+    },
+    {
+      "id": "food.pav-bhaji",
+      "tier": 3,
+      "w": {
+        "en": "Pav bhaji",
+        "ne": "पाउभाजी",
+        "ro": "Pav bhaji"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mumbai"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Spiced mashed vegetables served with buttered buns"
+        }
+      }
+    },
+    {
+      "id": "food.rasgulla",
+      "tier": 1,
+      "w": {
+        "en": "Rasgulla",
+        "ne": "रसगुल्ला",
+        "ro": "Rasgulla"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spongy"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Soft white cheese balls in light syrup"
+        }
+      }
+    },
+    {
+      "id": "food.paella",
+      "tier": 3,
+      "w": {
+        "en": "Paella",
+        "ne": "प्याएला",
+        "ro": "Paella"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spanish"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Saffron rice dish with seafood or meat from Spain"
+        }
+      }
+    },
+    {
+      "id": "food.croissant",
+      "tier": 2,
+      "w": {
+        "en": "Croissant",
+        "ne": "क्रोआसाँ",
+        "ro": "Croissant"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flaky"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Buttery crescent-shaped French pastry"
+        }
+      }
+    },
+    {
+      "id": "food.baguette",
+      "tier": 2,
+      "w": {
+        "en": "Baguette",
+        "ne": "ब्यागेट",
+        "ro": "Baguette"
+      },
+      "hint": {
+        "hard": {
+          "en": "French"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Long thin crusty loaf from France"
+        }
+      }
+    },
+    {
+      "id": "food.tiramisu",
+      "tier": 3,
+      "w": {
+        "en": "Tiramisu",
+        "ne": "तिरामिसु",
+        "ro": "Tiramisu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Coffee"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Italian dessert of coffee-soaked biscuits and mascarpone"
+        }
+      }
+    },
+    {
+      "id": "food.burrito",
+      "tier": 2,
+      "w": {
+        "en": "Burrito",
+        "ne": "बुरिटो",
+        "ro": "Burrito"
+      },
+      "hint": {
+        "hard": {
+          "en": "Wrapped"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Tortilla wrapped around beans, rice and meat"
+        }
+      }
+    },
+    {
+      "id": "food.tacos",
+      "tier": 2,
+      "w": {
+        "en": "Tacos",
+        "ne": "टाकोस",
+        "ro": "Tacos"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mexican"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Folded tortilla shells filled with meat and salsa"
+        }
+      }
+    },
+    {
+      "id": "food.nachos",
+      "tier": 2,
+      "w": {
+        "en": "Nachos",
+        "ne": "नाचोस",
+        "ro": "Nachos"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cheesy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Tortilla chips topped with melted cheese"
+        }
+      }
+    },
+    {
+      "id": "food.hot-dog",
+      "tier": 1,
+      "w": {
+        "en": "Hot dog",
+        "ne": "हट डग",
+        "ro": "Hot dog"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bun"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Sausage served in a long soft roll"
+        }
+      }
+    },
+    {
+      "id": "food.steak",
+      "tier": 1,
+      "w": {
+        "en": "Steak",
+        "ne": "स्टेक",
+        "ro": "Steak"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sizzling"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Thick slice of grilled beef"
+        }
+      }
+    },
+    {
+      "id": "food.salad",
+      "tier": 1,
+      "w": {
+        "en": "Salad",
+        "ne": "सलाद",
+        "ro": "Salad"
+      },
+      "hint": {
+        "hard": {
+          "en": "Raw"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Fresh cut vegetables tossed together"
+        }
+      }
+    },
+    {
+      "id": "food.soup",
+      "tier": 1,
+      "w": {
+        "en": "Soup",
+        "ne": "सुप",
+        "ro": "Sup"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bowl"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Hot liquid food served in a bowl"
+        }
+      }
+    },
+    {
+      "id": "food.ice-cream",
+      "tier": 1,
+      "w": {
+        "en": "Ice cream",
+        "ne": "आइसक्रिम",
+        "ro": "Aaiskrim"
+      },
+      "hint": {
+        "hard": {
+          "en": "Frozen"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Cold creamy treat served in a cone or cup"
+        }
+      }
+    },
+    {
+      "id": "food.chocolate",
+      "tier": 1,
+      "w": {
+        "en": "Chocolate",
+        "ne": "चकलेट",
+        "ro": "Chakalet"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cocoa"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Sweet brown treat made from cocoa beans"
+        }
+      }
+    },
+    {
+      "id": "food.cake",
+      "tier": 1,
+      "w": {
+        "en": "Cake",
+        "ne": "केक",
+        "ro": "Cake"
+      },
+      "hint": {
+        "hard": {
+          "en": "Birthday"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Baked sweet treat with frosting and candles"
+        }
+      }
+    },
+    {
+      "id": "food.biscuit",
+      "tier": 1,
+      "w": {
+        "en": "Biscuit",
+        "ne": "बिस्कुट",
+        "ro": "Biskut"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dunked"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Dry baked treat often dipped in tea"
+        }
+      }
+    },
+    {
+      "id": "food.donut",
+      "tier": 1,
+      "w": {
+        "en": "Donut",
+        "ne": "डोनट",
+        "ro": "Donut"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hole"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Ring-shaped fried dough with a sweet glaze"
+        }
+      }
+    },
+    {
+      "id": "food.pancake",
+      "tier": 1,
+      "w": {
+        "en": "Pancake",
+        "ne": "प्यानकेक",
+        "ro": "Pancake"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flip"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Flat round cake of batter fried and topped with syrup"
+        }
+      }
+    },
+    {
+      "id": "food.waffle",
+      "tier": 2,
+      "w": {
+        "en": "Waffle",
+        "ne": "वाफल",
+        "ro": "Waffle"
+      },
+      "hint": {
+        "hard": {
+          "en": "Grid"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Crisp batter cake with a square pattern"
+        }
+      }
+    },
+    {
+      "id": "food.baklava",
+      "tier": 3,
+      "w": {
+        "en": "Baklava",
+        "ne": "बाकलावा",
+        "ro": "Baklava"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layers"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Flaky pastry with nuts and syrup from the Middle East"
+        }
+      }
+    },
+    {
+      "id": "food.pudding",
+      "tier": 1,
+      "w": {
+        "en": "Pudding",
+        "ne": "पुडिङ",
+        "ro": "Pudding"
+      },
+      "hint": {
+        "hard": {
+          "en": "Soft"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Soft sweet dish eaten with a spoon"
+        }
+      }
+    },
+    {
+      "id": "food.jam",
+      "tier": 1,
+      "w": {
+        "en": "Jam",
+        "ne": "जाम",
+        "ro": "Jam"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spread"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Sweet fruit spread for bread"
+        }
+      }
+    },
+    {
+      "id": "food.popcorn",
+      "tier": 1,
+      "w": {
+        "en": "Popcorn",
+        "ne": "पपकर्न",
+        "ro": "Popcorn"
+      },
+      "hint": {
+        "hard": {
+          "en": "Movie"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Puffed kernels eaten in cinemas"
+        }
+      }
+    },
+    {
+      "id": "food.aloo-dum",
+      "tier": 1,
+      "w": {
+        "en": "Aloo dum",
+        "ne": "आलु दम",
+        "ro": "Aloo dum"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spiced"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Baby potatoes simmered in a spicy gravy"
+        }
+      }
+    },
+    {
+      "id": "food.aloo-sadeko",
+      "tier": 2,
+      "w": {
+        "en": "Aloo sadeko",
+        "ne": "आलु सादेको",
+        "ro": "Aloo sadeko"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tangy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Boiled potato mixed with chili, lime and mustard oil"
+        }
+      }
+    },
+    {
+      "id": "food.bhatmas-sadeko",
+      "tier": 2,
+      "w": {
+        "en": "Bhatmas sadeko",
+        "ne": "भटमास सदेको",
+        "ro": "Bhatmas sadeko"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crunchy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Fried soybeans tossed with onion, chili and spices"
+        }
+      }
+    },
+    {
+      "id": "food.jhol-momo",
+      "tier": 2,
+      "w": {
+        "en": "Jhol momo",
+        "ne": "झोल मोमो",
+        "ro": "Jhol momo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dunked"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Dumplings served swimming in a spicy tomato soup"
+        }
+      }
+    },
+    {
+      "id": "food.c-momo",
+      "tier": 3,
+      "w": {
+        "en": "C momo",
+        "ne": "सी मोमो",
+        "ro": "C momo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Chili"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Fried dumplings tossed in a hot sauce with onions and capsicum"
+        }
+      }
+    },
+    {
+      "id": "food.kachila",
+      "tier": 3,
+      "w": {
+        "en": "Kachila",
+        "ne": "कचिला",
+        "ro": "Kachila"
+      },
+      "hint": {
+        "hard": {
+          "en": "Raw"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Newar dish of minced buffalo meat marinated with mustard oil and spices"
+        }
+      }
+    },
+    {
+      "id": "food.kinema",
+      "tier": 3,
+      "w": {
+        "en": "Kinema",
+        "ne": "किनेमा",
+        "ro": "Kinema"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fermented"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Sticky fermented soybean dish from eastern Nepal"
+        }
+      }
+    },
+    {
+      "id": "food.masyaura",
+      "tier": 3,
+      "w": {
+        "en": "Masyaura",
+        "ne": "मस्यौरा",
+        "ro": "Masyaura"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sun-dried"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Sun-dried lentil nuggets cooked in curries"
+        }
+      }
+    },
+    {
+      "id": "food.sinki",
+      "tier": 3,
+      "w": {
+        "en": "Sinki",
+        "ne": "सिन्की",
+        "ro": "Sinki"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pickled"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Fermented radish root eaten in soups"
+        }
+      }
+    },
+    {
+      "id": "food.chukauni",
+      "tier": 3,
+      "w": {
+        "en": "Chukauni",
+        "ne": "चुकौनी",
+        "ro": "Chukauni"
+      },
+      "hint": {
+        "hard": {
+          "en": "Yogurt"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Boiled potatoes in spiced yogurt, a salad-like dish from western Nepal"
+        }
+      }
+    },
+    {
+      "id": "food.sikarni",
+      "tier": 3,
+      "w": {
+        "en": "Sikarni",
+        "ne": "सिकर्नी",
+        "ro": "Sikarni"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thick"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Thick sweet yogurt dessert with nuts and cardamom"
+        }
+      }
+    },
+    {
+      "id": "food.malpua",
+      "tier": 2,
+      "w": {
+        "en": "Malpua",
+        "ne": "मालपुवा",
+        "ro": "Malpua"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pancake"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Fried syrupy pancake eaten at festivals"
+        }
+      }
+    },
+    {
+      "id": "food.peda",
+      "tier": 2,
+      "w": {
+        "en": "Peda",
+        "ne": "पेडा",
+        "ro": "Peda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Milky"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Soft round sweet made of thickened milk"
+        }
+      }
+    },
+    {
+      "id": "food.khoya",
+      "tier": 2,
+      "w": {
+        "en": "Khoya",
+        "ne": "खोया",
+        "ro": "Khoya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Reduced"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Milk boiled down to a thick solid for sweets"
+        }
+      }
+    },
+    {
+      "id": "food.halwa",
+      "tier": 1,
+      "w": {
+        "en": "Halwa",
+        "ne": "हलुवा",
+        "ro": "Halwa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pudding"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Dense sweet pudding of semolina or vegetables cooked in ghee"
+        }
+      }
+    },
+    {
+      "id": "food.gajar-halwa",
+      "tier": 2,
+      "w": {
+        "en": "Carrot halwa",
+        "ne": "गाजरको हलुवा",
+        "ro": "Gajarko halwa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Winter"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Grated orange roots cooked slowly in milk, sugar and ghee"
+        }
+      }
+    },
+    {
+      "id": "food.sandesh",
+      "tier": 2,
+      "w": {
+        "en": "Sandesh",
+        "ne": "सन्देश",
+        "ro": "Sandesh"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bengali"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Delicate milk sweet from Bengal"
+        }
+      }
+    },
+    {
+      "id": "food.kulfi",
+      "tier": 1,
+      "w": {
+        "en": "Kulfi",
+        "ne": "कुल्फी",
+        "ro": "Kulfi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Frozen"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Dense Indian ice cream on a stick"
+        }
+      }
+    },
+    {
+      "id": "food.falooda",
+      "tier": 3,
+      "w": {
+        "en": "Falooda",
+        "ne": "फालुदा",
+        "ro": "Falooda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layered"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Cold dessert of vermicelli, rose syrup and ice cream"
+        }
+      }
+    },
+    {
+      "id": "food.chana-masala",
+      "tier": 2,
+      "w": {
+        "en": "Chana masala",
+        "ne": "चना मसला",
+        "ro": "Chana masala"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tangy"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Chickpeas in a tangy spiced gravy"
+        }
+      }
+    },
+    {
+      "id": "food.rajma",
+      "tier": 1,
+      "w": {
+        "en": "Rajma",
+        "ne": "राजमा",
+        "ro": "Rajma"
+      },
+      "hint": {
+        "hard": {
+          "en": "Red"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Kidney beans cooked in thick gravy eaten with rice"
+        }
+      }
+    },
+    {
+      "id": "food.chole-bhature",
+      "tier": 2,
+      "w": {
+        "en": "Chole bhature",
+        "ne": "छोले भटुरे",
+        "ro": "Chole bhature"
+      },
+      "hint": {
+        "hard": {
+          "en": "Puffy"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Spicy chickpea curry served with fluffy fried bread"
+        }
+      }
+    },
+    {
+      "id": "food.palak-paneer",
+      "tier": 2,
+      "w": {
+        "en": "Palak paneer",
+        "ne": "पालक पनीर",
+        "ro": "Palak paneer"
+      },
+      "hint": {
+        "hard": {
+          "en": "Green"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Cubes of cheese in a creamy spinach gravy"
+        }
+      }
+    },
+    {
+      "id": "food.dal-makhani",
+      "tier": 2,
+      "w": {
+        "en": "Dal makhani",
+        "ne": "दाल मखनी",
+        "ro": "Dal makhani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Black"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Creamy black lentils cooked with butter"
+        }
+      }
+    },
+    {
+      "id": "food.raita",
+      "tier": 2,
+      "w": {
+        "en": "Raita",
+        "ne": "रायता",
+        "ro": "Raita"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cooling"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Cool yogurt side dish with cucumber or onion"
+        }
+      }
+    },
+    {
+      "id": "food.dhokla",
+      "tier": 3,
+      "w": {
+        "en": "Dhokla",
+        "ne": "ढोकला",
+        "ro": "Dhokla"
+      },
+      "hint": {
+        "hard": {
+          "en": "Spongy"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Soft steamed savoury cake from Gujarat"
+        }
+      }
+    },
+    {
+      "id": "food.upma",
+      "tier": 3,
+      "w": {
+        "en": "Upma",
+        "ne": "उपमा",
+        "ro": "Upma"
+      },
+      "hint": {
+        "hard": {
+          "en": "Semolina"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Thick South Indian breakfast porridge"
+        }
+      }
+    },
+    {
+      "id": "food.poha",
+      "tier": 2,
+      "w": {
+        "en": "Poha",
+        "ne": "पोहा",
+        "ro": "Poha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Flattened"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Breakfast of spiced flattened rice"
+        }
+      }
+    },
+    {
+      "id": "food.vada",
+      "tier": 2,
+      "w": {
+        "en": "Vada",
+        "ne": "वडा",
+        "ro": "Vada"
+      },
+      "hint": {
+        "hard": {
+          "en": "Doughnut"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Savoury fried lentil doughnut"
+        }
+      }
+    },
+    {
+      "id": "food.sambar",
+      "tier": 2,
+      "w": {
+        "en": "Sambar",
+        "ne": "साम्बार",
+        "ro": "Sambar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tamarind"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Lentil and vegetable stew eaten with dosa"
+        }
+      }
+    },
+    {
+      "id": "food.uttapam",
+      "tier": 3,
+      "w": {
+        "en": "Uttapam",
+        "ne": "उत्तपम",
+        "ro": "Uttapam"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thick"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Thick South Indian pancake with toppings"
+        }
+      }
+    },
+    {
+      "id": "food.bhel-puri",
+      "tier": 2,
+      "w": {
+        "en": "Bhel puri",
+        "ne": "भेलपुरी",
+        "ro": "Bhel puri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mumbai"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Tangy snack of puffed rice, sev and chutney"
+        }
+      }
+    },
+    {
+      "id": "food.kachori",
+      "tier": 2,
+      "w": {
+        "en": "Kachori",
+        "ne": "कचौरी",
+        "ro": "Kachori"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stuffed"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Round fried pastry filled with spiced lentils"
+        }
+      }
+    },
+    {
+      "id": "food.aloo-tikki",
+      "tier": 2,
+      "w": {
+        "en": "Aloo tikki",
+        "ne": "आलु टिक्की",
+        "ro": "Aloo tikki"
+      },
+      "hint": {
+        "hard": {
+          "en": "Patty"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Crispy fried potato patties"
+        }
+      }
+    },
+    {
+      "id": "food.bhujia",
+      "tier": 2,
+      "w": {
+        "en": "Bhujia",
+        "ne": "भुजिया",
+        "ro": "Bhujia"
+      },
+      "hint": {
+        "hard": {
+          "en": "Strands"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Crunchy fried gram flour strands"
+        }
+      }
+    },
+    {
+      "id": "food.namkeen",
+      "tier": 2,
+      "w": {
+        "en": "Namkeen",
+        "ne": "नमकिन",
+        "ro": "Namkin"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mixture"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Salty crunchy snack mix"
+        }
+      }
+    },
+    {
+      "id": "food.chapati",
+      "tier": 1,
+      "w": {
+        "en": "Chapati",
+        "ne": "चपाती",
+        "ro": "Chapati"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thin"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Thin unleavened flatbread from whole wheat"
+        }
+      }
+    },
+    {
+      "id": "food.kulcha",
+      "tier": 3,
+      "w": {
+        "en": "Kulcha",
+        "ne": "कुल्चा",
+        "ro": "Kulcha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Soft"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Soft leavened bread, often stuffed"
+        }
+      }
+    },
+    {
+      "id": "food.chutney",
+      "tier": 1,
+      "w": {
+        "en": "Chutney",
+        "ne": "चटनी",
+        "ro": "Chatni"
+      },
+      "hint": {
+        "hard": {
+          "en": "Ground"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Spicy or sweet paste of herbs, fruits or tomatoes"
+        }
+      }
+    },
+    {
+      "id": "food.curry",
+      "tier": 1,
+      "w": {
+        "en": "Curry",
+        "ne": "करी",
+        "ro": "Curry"
+      },
+      "hint": {
+        "hard": {
+          "en": "Gravy"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Dish of meat or vegetables in a spiced sauce"
+        }
+      }
+    },
+    {
+      "id": "food.semolina",
+      "tier": 2,
+      "w": {
+        "en": "Semolina",
+        "ne": "सुजी",
+        "ro": "Suji"
+      },
+      "hint": {
+        "hard": {
+          "en": "Coarse"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Granular flour used for puddings and halwa"
+        }
+      }
+    },
+    {
+      "id": "food.vermicelli",
+      "tier": 2,
+      "w": {
+        "en": "Vermicelli",
+        "ne": "सेवई",
+        "ro": "Sewai"
+      },
+      "hint": {
+        "hard": {
+          "en": "Thin"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Fine noodles cooked with milk and sugar at Eid"
+        }
+      }
+    },
+    {
+      "id": "food.toast",
+      "tier": 1,
+      "w": {
+        "en": "Toast",
+        "ne": "टोस्ट",
+        "ro": "Toast"
+      },
+      "hint": {
+        "hard": {
+          "en": "Browned"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Sliced bread crisped in a toaster"
+        }
+      }
+    },
+    {
+      "id": "food.sweet-potato",
+      "tier": 2,
+      "w": {
+        "en": "Sweet potato",
+        "ne": "सखरखण्ड",
+        "ro": "Sakhar khanda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Roasted"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Sweet root eaten on a winter festival"
+        }
+      }
+    },
+    {
+      "id": "food.turnip",
+      "tier": 2,
+      "w": {
+        "en": "Turnip",
+        "ne": "सलगम",
+        "ro": "Salgam"
+      },
+      "hint": {
+        "hard": {
+          "en": "Round"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Round white and purple root vegetable"
+        }
+      }
+    },
+    {
+      "id": "food.beetroot",
+      "tier": 2,
+      "w": {
+        "en": "Beetroot",
+        "ne": "चुकन्दर",
+        "ro": "Chukandar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crimson"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Deep red root that stains your fingers"
+        }
+      }
+    },
+    {
+      "id": "food.broccoli",
+      "tier": 2,
+      "w": {
+        "en": "Broccoli",
+        "ne": "ब्रोकाउली",
+        "ro": "Broccoli"
+      },
+      "hint": {
+        "hard": {
+          "en": "Florets"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Green tree-shaped vegetable"
+        }
+      }
+    },
+    {
+      "id": "food.bell-pepper",
+      "tier": 1,
+      "w": {
+        "en": "Bell pepper",
+        "ne": "भेडे खुर्सानी",
+        "ro": "Bhede khursani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Capsicum"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Large mild pepper in green, red or yellow"
+        }
+      }
+    },
+    {
+      "id": "food.chayote",
+      "tier": 2,
+      "w": {
+        "en": "Chayote",
+        "ne": "स्कुस",
+        "ro": "Skus"
+      },
+      "hint": {
+        "hard": {
+          "en": "Vine"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Pear-shaped green vegetable that grows on a climbing plant"
+        }
+      }
+    },
+    {
+      "id": "food.bottle-gourd",
+      "tier": 2,
+      "w": {
+        "en": "Bottle gourd",
+        "ne": "लौका",
+        "ro": "Lauka"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pale"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Long pale green vegetable eaten in curries"
+        }
+      }
+    },
+    {
+      "id": "food.pointed-gourd",
+      "tier": 3,
+      "w": {
+        "en": "Pointed gourd",
+        "ne": "परवर",
+        "ro": "Parwar"
+      },
+      "hint": {
+        "hard": {
+          "en": "Striped"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Small oval green vegetable with pale stripes"
+        }
+      }
+    },
+    {
+      "id": "food.cowpea",
+      "tier": 2,
+      "w": {
+        "en": "Cowpea",
+        "ne": "बोडी",
+        "ro": "Bodi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Long"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Long thin green beans used in curries"
+        }
+      }
+    },
+    {
+      "id": "food.colocasia",
+      "tier": 2,
+      "w": {
+        "en": "Colocasia",
+        "ne": "पिँडालु",
+        "ro": "Pindalu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Taro"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Starchy root with heart-shaped leaves"
+        }
+      }
+    },
+    {
+      "id": "food.fiddlehead",
+      "tier": 3,
+      "w": {
+        "en": "Fiddlehead fern",
+        "ne": "निउरो",
+        "ro": "Niuro"
+      },
+      "hint": {
+        "hard": {
+          "en": "Curled"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Young curled fern shoots eaten as a hill vegetable"
+        }
+      }
+    },
+    {
+      "id": "food.nettle",
+      "tier": 2,
+      "w": {
+        "en": "Nettle",
+        "ne": "सिस्नु",
+        "ro": "Sisnu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stinging"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Wild plant that stings raw but is cooked into soup"
+        }
+      }
+    },
+    {
+      "id": "food.mustard-greens",
+      "tier": 2,
+      "w": {
+        "en": "Mustard greens",
+        "ne": "रायो साग",
+        "ro": "Rayo saag"
+      },
+      "hint": {
+        "hard": {
+          "en": "Peppery"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Strong tasting leaves cooked with garlic in winter"
+        }
+      }
+    },
+    {
+      "id": "food.spring-onion",
+      "tier": 2,
+      "w": {
+        "en": "Spring onion",
+        "ne": "हरियो प्याज",
+        "ro": "Hariyo pyaj"
+      },
+      "hint": {
+        "hard": {
+          "en": "Scallion"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Green onion with a white base"
+        }
+      }
+    },
+    {
+      "id": "food.lettuce",
+      "tier": 2,
+      "w": {
+        "en": "Lettuce",
+        "ne": "लेट्युस",
+        "ro": "Lettuce"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crisp"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Leafy salad green used in burgers"
+        }
+      }
+    },
+    {
+      "id": "food.avocado",
+      "tier": 2,
+      "w": {
+        "en": "Avocado",
+        "ne": "एभोकाडो",
+        "ro": "Avocado"
+      },
+      "hint": {
+        "hard": {
+          "en": "Creamy"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Green fruit with a large stone and buttery flesh"
+        }
+      }
+    },
+    {
+      "id": "food.dalle-khursani",
+      "tier": 2,
+      "w": {
+        "en": "Dalle chili",
+        "ne": "दल्ले खुर्सानी",
+        "ro": "Dalle khursani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fiery"
+        },
+        "normal": {
+          "en": "A vegetable",
+          "ne": "तरकारी",
+          "ro": "Tarkari"
+        },
+        "easy": {
+          "en": "Small round extremely hot Nepali chili"
+        }
+      }
+    },
+    {
+      "id": "food.sweet-lime",
+      "tier": 2,
+      "w": {
+        "en": "Sweet lime",
+        "ne": "मौसम",
+        "ro": "Mausam"
+      },
+      "hint": {
+        "hard": {
+          "en": "Juicy"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Green-skinned citrus fruit often sold as juice"
+        }
+      }
+    },
+    {
+      "id": "food.kafal",
+      "tier": 3,
+      "w": {
+        "en": "Kafal",
+        "ne": "काफल",
+        "ro": "Kafal"
+      },
+      "hint": {
+        "hard": {
+          "en": "Wild"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small red tart berry of the Himalayan foothills"
+        }
+      }
+    },
+    {
+      "id": "food.aiselu",
+      "tier": 3,
+      "w": {
+        "en": "Aiselu",
+        "ne": "ऐसेलु",
+        "ro": "Aiselu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Golden"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Yellow wild raspberry of the hills"
+        }
+      }
+    },
+    {
+      "id": "food.amla",
+      "tier": 2,
+      "w": {
+        "en": "Amla",
+        "ne": "आँला",
+        "ro": "Aanla"
+      },
+      "hint": {
+        "hard": {
+          "en": "Gooseberry"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small sour green fruit rich in vitamin C"
+        }
+      }
+    },
+    {
+      "id": "food.tamarind",
+      "tier": 2,
+      "w": {
+        "en": "Tamarind",
+        "ne": "अमिलो",
+        "ro": "Amilo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pods"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Sour brown pulp from pods used in chutney"
+        }
+      }
+    },
+    {
+      "id": "food.fig",
+      "tier": 2,
+      "w": {
+        "en": "Fig",
+        "ne": "अञ्जीर",
+        "ro": "Anjir"
+      },
+      "hint": {
+        "hard": {
+          "en": "Teardrop"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Soft sweet fruit full of tiny seeds"
+        }
+      }
+    },
+    {
+      "id": "food.dragon-fruit",
+      "tier": 2,
+      "w": {
+        "en": "Dragon fruit",
+        "ne": "ड्रागन फ्रुट",
+        "ro": "Dragon fruit"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pink"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Bright pink fruit with white flesh and black seeds"
+        }
+      }
+    },
+    {
+      "id": "food.apricot",
+      "tier": 2,
+      "w": {
+        "en": "Apricot",
+        "ne": "खुर्पानी",
+        "ro": "Khurpani"
+      },
+      "hint": {
+        "hard": {
+          "en": "Orange"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Small orange stone fruit, often dried"
+        }
+      }
+    },
+    {
+      "id": "food.melon",
+      "tier": 2,
+      "w": {
+        "en": "Melon",
+        "ne": "खरबुजा",
+        "ro": "Kharbuja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cantaloupe"
+        },
+        "normal": {
+          "en": "A fruit",
+          "ne": "फल",
+          "ro": "Phal"
+        },
+        "easy": {
+          "en": "Round sweet fruit with a netted skin"
+        }
+      }
+    },
+    {
+      "id": "food.pistachio",
+      "tier": 2,
+      "w": {
+        "en": "Pistachio",
+        "ne": "पिस्ता",
+        "ro": "Pista"
+      },
+      "hint": {
+        "hard": {
+          "en": "Green"
+        },
+        "normal": {
+          "en": "A nut",
+          "ne": "गिरी",
+          "ro": "Giri"
+        },
+        "easy": {
+          "en": "Small green nut in a split shell"
+        }
+      }
+    },
+    {
+      "id": "food.raisins",
+      "tier": 2,
+      "w": {
+        "en": "Raisins",
+        "ne": "किसमिस",
+        "ro": "Kismis"
+      },
+      "hint": {
+        "hard": {
+          "en": "Dried"
+        },
+        "normal": {
+          "en": "A nut",
+          "ne": "गिरी",
+          "ro": "Giri"
+        },
+        "easy": {
+          "en": "Wrinkled dried grapes"
+        }
+      }
+    },
+    {
+      "id": "food.sesame",
+      "tier": 2,
+      "w": {
+        "en": "Sesame",
+        "ne": "तिल",
+        "ro": "Til"
+      },
+      "hint": {
+        "hard": {
+          "en": "Seeds"
+        },
+        "normal": {
+          "en": "A nut",
+          "ne": "गिरी",
+          "ro": "Giri"
+        },
+        "easy": {
+          "en": "Tiny seeds used in sweets and oil"
+        }
+      }
+    },
+    {
+      "id": "food.betel-leaf",
+      "tier": 2,
+      "w": {
+        "en": "Betel leaf",
+        "ne": "पान",
+        "ro": "Paan"
+      },
+      "hint": {
+        "hard": {
+          "en": "Chewed"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Heart-shaped leaf wrapped around areca nut and lime"
+        }
+      }
+    },
+    {
+      "id": "food.duck",
+      "tier": 2,
+      "w": {
+        "en": "Duck",
+        "ne": "हाँस",
+        "ro": "Hans"
+      },
+      "hint": {
+        "hard": {
+          "en": "Quack"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Water bird whose meat is roasted"
+        }
+      }
+    },
+    {
+      "id": "food.trout",
+      "tier": 3,
+      "w": {
+        "en": "Trout",
+        "ne": "ट्राउट माछा",
+        "ro": "Trout machha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cold-water"
+        },
+        "normal": {
+          "en": "Seafood",
+          "ne": "माछाजन्य खाना",
+          "ro": "Machhajanya khana"
+        },
+        "easy": {
+          "en": "Mountain-stream fish raised in hill farms"
+        }
+      }
+    },
+    {
+      "id": "food.rohu",
+      "tier": 3,
+      "w": {
+        "en": "Rohu",
+        "ne": "रहु",
+        "ro": "Rahu"
+      },
+      "hint": {
+        "hard": {
+          "en": "Carp"
+        },
+        "normal": {
+          "en": "Seafood",
+          "ne": "माछाजन्य खाना",
+          "ro": "Machhajanya khana"
+        },
+        "easy": {
+          "en": "Popular freshwater fish of the plains"
+        }
+      }
+    },
+    {
+      "id": "food.dhikri",
+      "tier": 3,
+      "w": {
+        "en": "Dhikri",
+        "ne": "ढिकरी",
+        "ro": "Dhikri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tharu"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Steamed rice-flour balls of the Tharu community"
+        }
+      }
+    },
+    {
+      "id": "food.ghonghi",
+      "tier": 3,
+      "w": {
+        "en": "Ghonghi",
+        "ne": "घोङ्गी",
+        "ro": "Ghonghi"
+      },
+      "hint": {
+        "hard": {
+          "en": "Snail"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Tharu curry of freshwater snails"
+        }
+      }
+    },
+    {
+      "id": "food.bagiya",
+      "tier": 3,
+      "w": {
+        "en": "Bagiya",
+        "ne": "बगिया",
+        "ro": "Bagiya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Tharu"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Tharu steamed rice-flour dumpling with a filling"
+        }
+      }
+    },
+    {
+      "id": "food.litti-chokha",
+      "tier": 2,
+      "w": {
+        "en": "Litti chokha",
+        "ne": "लिट्टी चोखा",
+        "ro": "Litti chokha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Baked"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Wheat balls stuffed with roasted gram flour, served with mashed vegetables"
+        }
+      }
+    },
+    {
+      "id": "food.thekua",
+      "tier": 3,
+      "w": {
+        "en": "Thekua",
+        "ne": "ठेकुवा",
+        "ro": "Thekua"
+      },
+      "hint": {
+        "hard": {
+          "en": "Chhath"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Crunchy fried wheat and jaggery cookie offered at a sun festival"
+        }
+      }
+    },
+    {
+      "id": "food.tilkut",
+      "tier": 3,
+      "w": {
+        "en": "Tilkut",
+        "ne": "तिलकुट",
+        "ro": "Tilkut"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crushed"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Crushed sesame and jaggery sweet of winter"
+        }
+      }
+    },
+    {
+      "id": "food.makhana",
+      "tier": 2,
+      "w": {
+        "en": "Makhana",
+        "ne": "मखाना",
+        "ro": "Makhana"
+      },
+      "hint": {
+        "hard": {
+          "en": "Lotus"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Puffed seeds of a water lily, eaten roasted or in kheer"
+        }
+      }
+    },
+    {
+      "id": "food.khaja",
+      "tier": 2,
+      "w": {
+        "en": "Khaja",
+        "ne": "खाजा",
+        "ro": "Khaja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Layered"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Crisp layered fried pastry soaked in sugar syrup"
+        }
+      }
+    },
+    {
+      "id": "food.dal-puri",
+      "tier": 2,
+      "w": {
+        "en": "Dal puri",
+        "ne": "दालपुरी",
+        "ro": "Dal puri"
+      },
+      "hint": {
+        "hard": {
+          "en": "Filled"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Fried bread stuffed with spiced lentils"
+        }
+      }
+    },
+    {
+      "id": "food.pitha",
+      "tier": 2,
+      "w": {
+        "en": "Pitha",
+        "ne": "पीठा",
+        "ro": "Pitha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Rice-flour"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Steamed or fried rice-flour dumpling of the plains"
+        }
+      }
+    },
+    {
+      "id": "food.chokha",
+      "tier": 3,
+      "w": {
+        "en": "Chokha",
+        "ne": "चोखा",
+        "ro": "Chokha"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mashed"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Smoky mashed potato or eggplant with mustard oil and chili"
+        }
+      }
+    },
+    {
+      "id": "food.aila",
+      "tier": 2,
+      "w": {
+        "en": "Aila",
+        "ne": "अयला",
+        "ro": "Ayla"
+      },
+      "hint": {
+        "hard": {
+          "en": "Newar"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Clear home-distilled spirit of the Newars"
+        }
+      }
+    },
+    {
+      "id": "food.thakali-khana",
+      "tier": 2,
+      "w": {
+        "en": "Thakali set",
+        "ne": "थकाली खाना",
+        "ro": "Thakali khana"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mustang"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Meal of rice, lentils, greens, pickles and meat from the Thakali people"
+        }
+      }
+    },
+    {
+      "id": "food.tsampa",
+      "tier": 2,
+      "w": {
+        "en": "Tsampa",
+        "ne": "साम्पा",
+        "ro": "Sampa"
+      },
+      "hint": {
+        "hard": {
+          "en": "Roasted"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Flour of roasted barley mixed with tea"
+        }
+      }
+    },
+    {
+      "id": "food.butter-tea",
+      "tier": 2,
+      "w": {
+        "en": "Butter tea",
+        "ne": "मक्खन चिया",
+        "ro": "Makkhan chiya"
+      },
+      "hint": {
+        "hard": {
+          "en": "Salty"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Hot Himalayan tea churned with salt and yak butter"
+        }
+      }
+    },
+    {
+      "id": "food.tingmo",
+      "tier": 3,
+      "w": {
+        "en": "Tingmo",
+        "ne": "तिङ्मो",
+        "ro": "Tingmo"
+      },
+      "hint": {
+        "hard": {
+          "en": "Steamed"
+        },
+        "normal": {
+          "en": "A bread",
+          "ne": "रोटी",
+          "ro": "Roti"
+        },
+        "easy": {
+          "en": "Soft Tibetan steamed bun without a filling"
+        }
+      }
+    },
+    {
+      "id": "food.thenthuk",
+      "tier": 3,
+      "w": {
+        "en": "Thenthuk",
+        "ne": "थेनथुक",
+        "ro": "Thenthuk"
+      },
+      "hint": {
+        "hard": {
+          "en": "Hand-pulled"
+        },
+        "normal": {
+          "en": "A soup",
+          "ne": "झोल",
+          "ro": "Jhol"
+        },
+        "easy": {
+          "en": "Tibetan soup of pulled flat noodles"
+        }
+      }
+    },
+    {
+      "id": "food.shrikhand",
+      "tier": 3,
+      "w": {
+        "en": "Shrikhand",
+        "ne": "श्रीखण्ड",
+        "ro": "Shrikhand"
+      },
+      "hint": {
+        "hard": {
+          "en": "Strained"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Sweet hung curd flavoured with saffron and cardamom"
+        }
+      }
+    },
+    {
+      "id": "food.cream",
+      "tier": 2,
+      "w": {
+        "en": "Cream",
+        "ne": "क्रिम",
+        "ro": "Cream"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fatty"
+        },
+        "normal": {
+          "en": "A dairy food",
+          "ne": "दुग्ध पदार्थ",
+          "ro": "Dugdha padarth"
+        },
+        "easy": {
+          "en": "Thick fatty layer on top of fresh milk"
+        }
+      }
+    },
+    {
+      "id": "food.dim-sum",
+      "tier": 2,
+      "w": {
+        "en": "Dim sum",
+        "ne": "डिम सम",
+        "ro": "Dim sum"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bite-sized"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Small Chinese snacks steamed in bamboo baskets"
+        }
+      }
+    },
+    {
+      "id": "food.gyoza",
+      "tier": 3,
+      "w": {
+        "en": "Gyoza",
+        "ne": "ग्योजा",
+        "ro": "Gyoza"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pan-fried"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Japanese pan-fried dumplings"
+        }
+      }
+    },
+    {
+      "id": "food.fried-chicken",
+      "tier": 1,
+      "w": {
+        "en": "Fried chicken",
+        "ne": "फ्राइड चिकेन",
+        "ro": "Fried chicken"
+      },
+      "hint": {
+        "hard": {
+          "en": "Crispy"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Chicken pieces coated in batter and deep fried"
+        }
+      }
+    },
+    {
+      "id": "food.hot-pot",
+      "tier": 3,
+      "w": {
+        "en": "Hot pot",
+        "ne": "हट पट",
+        "ro": "Hot pot"
+      },
+      "hint": {
+        "hard": {
+          "en": "Boiling"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Pot of simmering broth in which you cook slices at the table"
+        }
+      }
+    },
+    {
+      "id": "food.manchurian",
+      "tier": 2,
+      "w": {
+        "en": "Manchurian",
+        "ne": "मन्चुरियन",
+        "ro": "Manchurian"
+      },
+      "hint": {
+        "hard": {
+          "en": "Indo-Chinese"
+        },
+        "normal": {
+          "en": "A food",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Fried vegetable balls in a spicy-sweet dark sauce"
+        }
+      }
+    },
+    {
+      "id": "food.chilli-chicken",
+      "tier": 2,
+      "w": {
+        "en": "Chilli chicken",
+        "ne": "चिली चिकेन",
+        "ro": "Chilli chicken"
+      },
+      "hint": {
+        "hard": {
+          "en": "Indo-Chinese"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Fried chicken tossed with peppers and soy sauce"
+        }
+      }
+    },
+    {
+      "id": "food.egg-roll",
+      "tier": 2,
+      "w": {
+        "en": "Egg roll",
+        "ne": "एग रोल",
+        "ro": "Egg roll"
+      },
+      "hint": {
+        "hard": {
+          "en": "Wrapped"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Egg fried and rolled in a flatbread with sauce"
+        }
+      }
+    },
+    {
+      "id": "food.meatballs",
+      "tier": 2,
+      "w": {
+        "en": "Meatballs",
+        "ne": "मिटबल",
+        "ro": "Meatball"
+      },
+      "hint": {
+        "hard": {
+          "en": "Round"
+        },
+        "normal": {
+          "en": "A meat dish",
+          "ne": "मासुको परिकार",
+          "ro": "Masuko parikar"
+        },
+        "easy": {
+          "en": "Minced meat rolled into balls"
+        }
+      }
+    },
+    {
+      "id": "food.fish-and-chips",
+      "tier": 2,
+      "w": {
+        "en": "Fish and chips",
+        "ne": "फिस एन्ड चिप्स",
+        "ro": "Fish and chips"
+      },
+      "hint": {
+        "hard": {
+          "en": "British"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Battered fish served with fried potatoes"
+        }
+      }
+    },
+    {
+      "id": "food.brownie",
+      "tier": 2,
+      "w": {
+        "en": "Brownie",
+        "ne": "ब्राउनी",
+        "ro": "Brownie"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fudgy"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Dense chocolate square cake"
+        }
+      }
+    },
+    {
+      "id": "food.muffin",
+      "tier": 2,
+      "w": {
+        "en": "Muffin",
+        "ne": "म्यफिन",
+        "ro": "Muffin"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cup-shaped"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Small round cake baked in a paper cup"
+        }
+      }
+    },
+    {
+      "id": "food.cupcake",
+      "tier": 2,
+      "w": {
+        "en": "Cupcake",
+        "ne": "कपकेक",
+        "ro": "Cupcake"
+      },
+      "hint": {
+        "hard": {
+          "en": "Frosted"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Tiny cake topped with icing"
+        }
+      }
+    },
+    {
+      "id": "food.cheesecake",
+      "tier": 2,
+      "w": {
+        "en": "Cheesecake",
+        "ne": "चिजकेक",
+        "ro": "Cheesecake"
+      },
+      "hint": {
+        "hard": {
+          "en": "Creamy"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Rich dessert on a biscuit base"
+        }
+      }
+    },
+    {
+      "id": "food.macaron",
+      "tier": 3,
+      "w": {
+        "en": "Macaron",
+        "ne": "म्याकारुन",
+        "ro": "Macaron"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pastel"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Colourful French sandwich cookie"
+        }
+      }
+    },
+    {
+      "id": "food.gelato",
+      "tier": 3,
+      "w": {
+        "en": "Gelato",
+        "ne": "जेलाटो",
+        "ro": "Gelato"
+      },
+      "hint": {
+        "hard": {
+          "en": "Italian"
+        },
+        "normal": {
+          "en": "A dessert",
+          "ne": "मिठो परिकार",
+          "ro": "Mitho parikar"
+        },
+        "easy": {
+          "en": "Dense creamy Italian ice cream"
+        }
+      }
+    },
+    {
+      "id": "food.milkshake",
+      "tier": 1,
+      "w": {
+        "en": "Milkshake",
+        "ne": "मिल्कसेक",
+        "ro": "Milkshake"
+      },
+      "hint": {
+        "hard": {
+          "en": "Blended"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Thick cold drink of milk and ice cream"
+        }
+      }
+    },
+    {
+      "id": "food.smoothie",
+      "tier": 2,
+      "w": {
+        "en": "Smoothie",
+        "ne": "स्मुदी",
+        "ro": "Smoothie"
+      },
+      "hint": {
+        "hard": {
+          "en": "Fruity"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Thick drink made by blending fruit"
+        }
+      }
+    },
+    {
+      "id": "food.cappuccino",
+      "tier": 1,
+      "w": {
+        "en": "Cappuccino",
+        "ne": "क्यापुचिनो",
+        "ro": "Cappuccino"
+      },
+      "hint": {
+        "hard": {
+          "en": "Foamy"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Espresso topped with frothy milk"
+        }
+      }
+    },
+    {
+      "id": "food.espresso",
+      "tier": 2,
+      "w": {
+        "en": "Espresso",
+        "ne": "एस्प्रेसो",
+        "ro": "Espresso"
+      },
+      "hint": {
+        "hard": {
+          "en": "Strong"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Small strong shot of coffee"
+        }
+      }
+    },
+    {
+      "id": "food.latte",
+      "tier": 2,
+      "w": {
+        "en": "Latte",
+        "ne": "ल्याटे",
+        "ro": "Latte"
+      },
+      "hint": {
+        "hard": {
+          "en": "Milky"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Coffee with lots of steamed milk"
+        }
+      }
+    },
+    {
+      "id": "food.green-tea",
+      "tier": 1,
+      "w": {
+        "en": "Green tea",
+        "ne": "ग्रिन टी",
+        "ro": "Green tea"
+      },
+      "hint": {
+        "hard": {
+          "en": "Leaves"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Pale tea made from unfermented leaves"
+        }
+      }
+    },
+    {
+      "id": "food.soda",
+      "tier": 1,
+      "w": {
+        "en": "Soda",
+        "ne": "सोडा",
+        "ro": "Soda"
+      },
+      "hint": {
+        "hard": {
+          "en": "Bubbles"
+        },
+        "normal": {
+          "en": "A drink",
+          "ne": "पेय",
+          "ro": "Pey"
+        },
+        "easy": {
+          "en": "Carbonated water, sometimes flavoured"
+        }
+      }
+    },
+    {
+      "id": "food.soy-sauce",
+      "tier": 2,
+      "w": {
+        "en": "Soy sauce",
+        "ne": "सोया सस",
+        "ro": "Soya sauce"
+      },
+      "hint": {
+        "hard": {
+          "en": "Salty"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Dark salty sauce from fermented beans"
+        }
+      }
+    },
+    {
+      "id": "food.vinegar",
+      "tier": 2,
+      "w": {
+        "en": "Vinegar",
+        "ne": "सिरका",
+        "ro": "Sirka"
+      },
+      "hint": {
+        "hard": {
+          "en": "Sour"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Sharp liquid used for pickles and salads"
+        }
+      }
+    },
+    {
+      "id": "food.mayonnaise",
+      "tier": 2,
+      "w": {
+        "en": "Mayonnaise",
+        "ne": "मेयोनेज",
+        "ro": "Mayonnaise"
+      },
+      "hint": {
+        "hard": {
+          "en": "Creamy"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Thick egg-based sauce for sandwiches"
+        }
+      }
+    },
+    {
+      "id": "food.mustard-oil",
+      "tier": 1,
+      "w": {
+        "en": "Mustard oil",
+        "ne": "तोरीको तेल",
+        "ro": "Torika tel"
+      },
+      "hint": {
+        "hard": {
+          "en": "Pungent"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Strong yellow oil used in Nepali cooking and pickles"
+        }
+      }
+    },
+    {
+      "id": "food.olive-oil",
+      "tier": 2,
+      "w": {
+        "en": "Olive oil",
+        "ne": "जैतुनको तेल",
+        "ro": "Jaitunko tel"
+      },
+      "hint": {
+        "hard": {
+          "en": "Mediterranean"
+        },
+        "normal": {
+          "en": "A condiment",
+          "ne": "चटनी/अचार",
+          "ro": "Chatni/achar"
+        },
+        "easy": {
+          "en": "Golden oil pressed from a small green fruit"
+        }
+      }
+    },
+    {
+      "id": "food.cornflakes",
+      "tier": 2,
+      "w": {
+        "en": "Cornflakes",
+        "ne": "कर्नफ्लेक्स",
+        "ro": "Cornflakes"
+      },
+      "hint": {
+        "hard": {
+          "en": "Cereal"
+        },
+        "normal": {
+          "en": "A grain",
+          "ne": "अन्न",
+          "ro": "Anna"
+        },
+        "easy": {
+          "en": "Crunchy toasted flakes eaten with milk"
+        }
+      }
+    },
+    {
+      "id": "food.chikki",
+      "tier": 2,
+      "w": {
+        "en": "Chikki",
+        "ne": "चिक्की",
+        "ro": "Chikki"
+      },
+      "hint": {
+        "hard": {
+          "en": "Brittle"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Hard bar of nuts set in jaggery or sugar"
+        }
+      }
+    },
+    {
+      "id": "food.lollipop",
+      "tier": 1,
+      "w": {
+        "en": "Lollipop",
+        "ne": "लालीपप",
+        "ro": "Lollipop"
+      },
+      "hint": {
+        "hard": {
+          "en": "Stick"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Hard sweet on a stick"
+        }
+      }
+    },
+    {
+      "id": "food.candy",
+      "tier": 1,
+      "w": {
+        "en": "Candy",
+        "ne": "क्यान्डी",
+        "ro": "Candy"
+      },
+      "hint": {
+        "hard": {
+          "en": "Wrapped"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Small sugary sweet sold in wrappers"
+        }
+      }
+    },
+    {
+      "id": "food.toffee",
+      "tier": 1,
+      "w": {
+        "en": "Toffee",
+        "ne": "टफी",
+        "ro": "Toffee"
+      },
+      "hint": {
+        "hard": {
+          "en": "Chewy"
+        },
+        "normal": {
+          "en": "A sweet",
+          "ne": "मिठाई",
+          "ro": "Mithai"
+        },
+        "easy": {
+          "en": "Hard or chewy caramel sweet"
+        }
+      }
+    },
+    {
+      "id": "food.wai-wai",
+      "tier": 1,
+      "w": {
+        "en": "Wai Wai",
+        "ne": "वाइवाइ",
+        "ro": "Wai Wai"
+      },
+      "hint": {
+        "hard": {
+          "en": "Instant"
+        },
+        "normal": {
+          "en": "A snack",
+          "ne": "खाजा",
+          "ro": "Khaja"
+        },
+        "easy": {
+          "en": "Famous Nepali instant noodles, often eaten dry"
+        }
+      }
+    },
+    {
+      "id": "food.breakfast",
+      "tier": 1,
+      "w": {
+        "en": "Breakfast",
+        "ne": "नास्ता",
+        "ro": "Nasta"
+      },
+      "hint": {
+        "hard": {
+          "en": "Morning"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "First meal of the day"
+        }
+      }
+    },
+    {
+      "id": "food.lunch",
+      "tier": 1,
+      "w": {
+        "en": "Lunch",
+        "ne": "खाजा",
+        "ro": "Khaja"
+      },
+      "hint": {
+        "hard": {
+          "en": "Midday"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Meal in the middle of the day"
+        }
+      }
+    },
+    {
+      "id": "food.dinner",
+      "tier": 1,
+      "w": {
+        "en": "Dinner",
+        "ne": "रातिको खाना",
+        "ro": "Ratiko khana"
+      },
+      "hint": {
+        "hard": {
+          "en": "Evening"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Main meal at night"
+        }
+      }
+    },
+    {
+      "id": "food.tiffin",
+      "tier": 1,
+      "w": {
+        "en": "Tiffin",
+        "ne": "टिफिन",
+        "ro": "Tiffin"
+      },
+      "hint": {
+        "hard": {
+          "en": "Lunchbox"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Light packed meal carried to school or work"
+        }
+      }
+    },
+    {
+      "id": "food.thali",
+      "tier": 1,
+      "w": {
+        "en": "Thali",
+        "ne": "थाली",
+        "ro": "Thali"
+      },
+      "hint": {
+        "hard": {
+          "en": "Plate"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Large plate holding rice, lentils and many small dishes"
+        }
+      }
+    },
+    {
+      "id": "food.feast",
+      "tier": 1,
+      "w": {
+        "en": "Feast",
+        "ne": "भोज",
+        "ro": "Bhoj"
+      },
+      "hint": {
+        "hard": {
+          "en": "Banquet"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Big meal prepared for guests at a celebration"
+        }
+      }
+    },
+    {
+      "id": "food.picnic",
+      "tier": 1,
+      "w": {
+        "en": "Picnic",
+        "ne": "पिकनिक",
+        "ro": "Picnic"
+      },
+      "hint": {
+        "hard": {
+          "en": "Outdoor"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Meal eaten outside in a park or by a river"
+        }
+      }
+    },
+    {
+      "id": "food.buffet",
+      "tier": 2,
+      "w": {
+        "en": "Buffet",
+        "ne": "बफे",
+        "ro": "Buffet"
+      },
+      "hint": {
+        "hard": {
+          "en": "Self-serve"
+        },
+        "normal": {
+          "en": "A meal",
+          "ne": "खाना",
+          "ro": "Khana"
+        },
+        "easy": {
+          "en": "Meal where guests serve themselves from many dishes"
+        }
+      }
+    }
+  ]
+}

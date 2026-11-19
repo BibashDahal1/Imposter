@@ -54,3 +54,29 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Online rooms
+
+Online rooms use the WebSocket relay in `server/`. Nearby Wi-Fi / hotspot
+rooms continue to connect directly and do not need this service.
+
+Run the relay locally:
+
+```bash
+npm --prefix server install
+npm --prefix server start
+```
+
+The server listens on port `47830` by default and exposes `GET /health`. To
+use online rooms, deploy the server where players can reach it and configure
+the app with its WebSocket URL, for example in a local `.env.local` file:
+
+```dotenv
+EXPO_PUBLIC_ROOM_SERVER_URL=wss://your-room-server.example
+```
+
+Restart Expo after changing the URL. Use `wss://` for a public deployment.
+Rooms live in server memory and disappear when the server restarts, so run a
+single relay instance unless shared room storage is added.
+Deploy and restart the relay whenever its room protocol changes; the app
+checks the protocol version before allowing players into an online room.
